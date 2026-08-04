@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-04T05:01:31.583Z",
-  "total": 15914,
+  "generatedAt": "2026-08-04T08:25:36.101Z",
+  "total": 15918,
   "byPlatform": {
-    "greenhouse": 7663,
-    "lever": 1149,
-    "ashby": 2634,
-    "smartrecruiters": 1390,
+    "greenhouse": 7668,
+    "lever": 1148,
+    "ashby": 2637,
+    "smartrecruiters": 1391,
     "workable": 59,
     "recruitee": 60,
     "personio": 4,
     "bamboohr": 13,
-    "workday": 2942
+    "workday": 2938
   },
   "byCompany": {
     "Stripe": 544,
     "Airbnb": 190,
     "Coinbase": 163,
     "Robinhood": 129,
-    "Figma": 176,
+    "Figma": 177,
     "Discord": 44,
     "Asana": 144,
     "Pinterest": 221,
     "Reddit": 188,
     "Cloudflare": 286,
-    "Affirm": 181,
+    "Affirm": 183,
     "Instacart": 117,
-    "Datadog": 432,
+    "Datadog": 433,
     "GitLab": 189,
     "Dropbox": 36,
     "Twitch": 62,
     "Anthropic": 399,
-    "Databricks": 808,
+    "Databricks": 809,
     "Samsara": 300,
     "Brex": 302,
     "Flexport": 152,
     "Squarespace": 16,
     "Doximity": 7,
     "Lyft": 161,
-    "Roblox": 221,
-    "Okta": 348,
+    "Roblox": 220,
+    "Okta": 349,
     "Elastic": 232,
     "MongoDB": 400,
     "Twilio": 178,
@@ -58,14 +58,14 @@
     "Calendly": 13,
     "Palantir": 302,
     "Ro": 50,
-    "Veeva Systems": 783,
+    "Veeva Systems": 782,
     "Tala": 14,
     "Ramp": 124,
     "Linear": 24,
-    "OpenAI": 736,
+    "OpenAI": 737,
     "Watershed": 38,
     "Substack": 12,
-    "Notion": 109,
+    "Notion": 110,
     "Runway": 4,
     "Synthesia": 75,
     "Cursor (Anysphere)": 115,
@@ -80,11 +80,11 @@
     "Harvey": 362,
     "Sierra": 175,
     "Speak": 42,
-    "Crusoe": 370,
+    "Crusoe": 371,
     "Visa": 2,
     "Equinox": 500,
     "The Wonderful Company": 209,
-    "Version 1": 179,
+    "Version 1": 180,
     "Bosch Group": 500,
     "Hugging Face": 7,
     "EQL Tech": 45,
@@ -101,25 +101,25 @@
     "Salesforce": 500,
     "Adobe": 500,
     "CVS Health": 500,
-    "Vanguard": 452,
-    "Autodesk": 490
+    "Vanguard": 450,
+    "Autodesk": 488
   },
   "companiesAttempted": 90,
   "companiesOk": 90,
   "companiesFailed": 0,
-  "elapsedMs": 40996,
+  "elapsedMs": 52222,
   "perCompanyStatus": [
-    {
-      "company": "Stripe",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 544
-    },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 190
+    },
+    {
+      "company": "Stripe",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 544
     },
     {
       "company": "Coinbase",
@@ -128,16 +128,16 @@
       "jobs": 163
     },
     {
+      "company": "Figma",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 177
+    },
+    {
       "company": "Robinhood",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 129
-    },
-    {
-      "company": "Figma",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 176
     },
     {
       "company": "Discord",
@@ -152,10 +152,10 @@
       "jobs": 144
     },
     {
-      "company": "Reddit",
+      "company": "Pinterest",
       "platform": "greenhouse",
       "status": "ok",
-      "jobs": 188
+      "jobs": 221
     },
     {
       "company": "Cloudflare",
@@ -164,22 +164,22 @@
       "jobs": 286
     },
     {
-      "company": "Pinterest",
+      "company": "Reddit",
       "platform": "greenhouse",
       "status": "ok",
-      "jobs": 221
-    },
-    {
-      "company": "Affirm",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 181
+      "jobs": 188
     },
     {
       "company": "Instacart",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 117
+    },
+    {
+      "company": "Affirm",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 183
     },
     {
       "company": "Dropbox",
@@ -191,7 +191,7 @@
       "company": "Datadog",
       "platform": "greenhouse",
       "status": "ok",
-      "jobs": 432
+      "jobs": 433
     },
     {
       "company": "GitLab",
@@ -200,28 +200,16 @@
       "jobs": 189
     },
     {
-      "company": "Anthropic",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 399
-    },
-    {
       "company": "Twitch",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 62
     },
     {
-      "company": "Brex",
+      "company": "Anthropic",
       "platform": "greenhouse",
       "status": "ok",
-      "jobs": 302
-    },
-    {
-      "company": "Databricks",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 808
+      "jobs": 399
     },
     {
       "company": "Samsara",
@@ -230,10 +218,28 @@
       "jobs": 300
     },
     {
+      "company": "Databricks",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 809
+    },
+    {
+      "company": "Brex",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 302
+    },
+    {
       "company": "Flexport",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 152
+    },
+    {
+      "company": "Squarespace",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 16
     },
     {
       "company": "Doximity",
@@ -245,25 +251,7 @@
       "company": "Roblox",
       "platform": "greenhouse",
       "status": "ok",
-      "jobs": 221
-    },
-    {
-      "company": "Lyft",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 161
-    },
-    {
-      "company": "Squarespace",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 16
-    },
-    {
-      "company": "Okta",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 348
+      "jobs": 220
     },
     {
       "company": "Elastic",
@@ -272,16 +260,28 @@
       "jobs": 232
     },
     {
-      "company": "Twilio",
+      "company": "Okta",
       "platform": "greenhouse",
       "status": "ok",
-      "jobs": 178
+      "jobs": 349
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 400
+    },
+    {
+      "company": "Twilio",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 178
+    },
+    {
+      "company": "Lyft",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 161
     },
     {
       "company": "Zscaler",
@@ -296,22 +296,34 @@
       "jobs": 12
     },
     {
+      "company": "Peloton",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 57
+    },
+    {
+      "company": "Carta",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 59
+    },
+    {
       "company": "Checkr",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 50
     },
     {
-      "company": "Duolingo",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 64
-    },
-    {
       "company": "Faire",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 72
+    },
+    {
+      "company": "Duolingo",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 64
     },
     {
       "company": "Mixpanel",
@@ -326,6 +338,12 @@
       "jobs": 2
     },
     {
+      "company": "Scale AI",
+      "platform": "greenhouse",
+      "status": "ok",
+      "jobs": 216
+    },
+    {
       "company": "Vercel",
       "platform": "greenhouse",
       "status": "ok",
@@ -338,46 +356,10 @@
       "jobs": 28
     },
     {
-      "company": "Carta",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 59
-    },
-    {
-      "company": "Peloton",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 57
-    },
-    {
       "company": "Airtable",
       "platform": "greenhouse",
       "status": "ok",
       "jobs": 40
-    },
-    {
-      "company": "Calendly",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 13
-    },
-    {
-      "company": "Scale AI",
-      "platform": "greenhouse",
-      "status": "ok",
-      "jobs": 216
-    },
-    {
-      "company": "Ramp",
-      "platform": "ashby",
-      "status": "ok",
-      "jobs": 124
-    },
-    {
-      "company": "Linear",
-      "platform": "ashby",
-      "status": "ok",
-      "jobs": 24
     },
     {
       "company": "Tala",
@@ -392,10 +374,22 @@
       "jobs": 50
     },
     {
-      "company": "OpenAI",
+      "company": "Palantir",
+      "platform": "lever",
+      "status": "ok",
+      "jobs": 302
+    },
+    {
+      "company": "Linear",
       "platform": "ashby",
       "status": "ok",
-      "jobs": 736
+      "jobs": 24
+    },
+    {
+      "company": "Ramp",
+      "platform": "ashby",
+      "status": "ok",
+      "jobs": 124
     },
     {
       "company": "Watershed",
@@ -410,16 +404,22 @@
       "jobs": 12
     },
     {
+      "company": "Notion",
+      "platform": "ashby",
+      "status": "ok",
+      "jobs": 110
+    },
+    {
+      "company": "OpenAI",
+      "platform": "ashby",
+      "status": "ok",
+      "jobs": 737
+    },
+    {
       "company": "Runway",
       "platform": "ashby",
       "status": "ok",
       "jobs": 4
-    },
-    {
-      "company": "Notion",
-      "platform": "ashby",
-      "status": "ok",
-      "jobs": 109
     },
     {
       "company": "Synthesia",
@@ -444,12 +444,6 @@
       "platform": "ashby",
       "status": "ok",
       "jobs": 31
-    },
-    {
-      "company": "Palantir",
-      "platform": "lever",
-      "status": "ok",
-      "jobs": 302
     },
     {
       "company": "Levels",
@@ -506,22 +500,28 @@
       "jobs": 42
     },
     {
-      "company": "Veeva Systems",
-      "platform": "lever",
-      "status": "ok",
-      "jobs": 783
-    },
-    {
       "company": "Crusoe",
       "platform": "ashby",
       "status": "ok",
-      "jobs": 370
+      "jobs": 371
     },
     {
       "company": "Visa",
       "platform": "smartrecruiters",
       "status": "ok",
       "jobs": 2
+    },
+    {
+      "company": "Version 1",
+      "platform": "smartrecruiters",
+      "status": "ok",
+      "jobs": 180
+    },
+    {
+      "company": "The Wonderful Company",
+      "platform": "smartrecruiters",
+      "status": "ok",
+      "jobs": 209
     },
     {
       "company": "Hugging Face",
@@ -536,10 +536,10 @@
       "jobs": 45
     },
     {
-      "company": "Version 1",
+      "company": "Equinox",
       "platform": "smartrecruiters",
       "status": "ok",
-      "jobs": 179
+      "jobs": 500
     },
     {
       "company": "I-Tech People",
@@ -560,12 +560,6 @@
       "jobs": 14
     },
     {
-      "company": "The Wonderful Company",
-      "platform": "smartrecruiters",
-      "status": "ok",
-      "jobs": 209
-    },
-    {
       "company": "Trusted Shops",
       "platform": "recruitee",
       "status": "ok",
@@ -576,6 +570,12 @@
       "platform": "recruitee",
       "status": "ok",
       "jobs": 19
+    },
+    {
+      "company": "Veeva Systems",
+      "platform": "lever",
+      "status": "ok",
+      "jobs": 782
     },
     {
       "company": "Personio",
@@ -590,7 +590,13 @@
       "jobs": 10
     },
     {
-      "company": "Equinox",
+      "company": "Clark",
+      "platform": "personio",
+      "status": "ok",
+      "jobs": 3
+    },
+    {
+      "company": "Bosch Group",
       "platform": "smartrecruiters",
       "status": "ok",
       "jobs": 500
@@ -602,25 +608,19 @@
       "jobs": 3
     },
     {
-      "company": "Bosch Group",
-      "platform": "smartrecruiters",
+      "company": "Calendly",
+      "platform": "greenhouse",
       "status": "ok",
-      "jobs": 500
+      "jobs": 13
     },
     {
-      "company": "Clark",
-      "platform": "personio",
-      "status": "ok",
-      "jobs": 3
-    },
-    {
-      "company": "CVS Health",
+      "company": "Salesforce",
       "platform": "workday",
       "status": "ok",
       "jobs": 500
     },
     {
-      "company": "Salesforce",
+      "company": "CVS Health",
       "platform": "workday",
       "status": "ok",
       "jobs": 500
@@ -641,13 +641,13 @@
       "company": "Vanguard",
       "platform": "workday",
       "status": "ok",
-      "jobs": 452
+      "jobs": 450
     },
     {
       "company": "Autodesk",
       "platform": "workday",
       "status": "ok",
-      "jobs": 490
+      "jobs": 488
     }
   ]
 }
