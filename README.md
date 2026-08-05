@@ -179,3 +179,11 @@ repo is ~500 lines of plain Node meant to be read in one sitting.
 MIT — see [`LICENSE`](LICENSE). The code is MIT licensed; the job posting
 data itself is republished from each company's own public feed and belongs
 to the respective employer.
+
+## Related open datasets
+
+Part of a small set of free, daily-refreshed datasets built the same way:
+zero-dependency Node fetcher, GitHub Actions refresh, public endpoints only.
+
+- **[Open FedSpend Data](https://github.com/ConorsCode/open-fedspend-data)** — 28,092 recent US federal contract awards from USAspending.gov, with recipient and agency aggregates.
+- **[Open Dependency Risk](https://github.com/ConorsCode/open-dependency-risk)** — 1,500 widely-used npm and PyPI packages joined with known vulnerabilities from OSV.dev.
