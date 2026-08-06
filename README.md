@@ -1,11 +1,11 @@
 # open-jobs-data
 
-A free, daily-updated dataset of open job postings from ~90 well-known tech
+A free, daily-updated dataset of open job postings from ~380 well-known tech
 companies, pulled directly from nine applicant tracking systems (ATS) and
 normalized into one schema.
 
-Current snapshot: **15,919 postings** across 90 companies (last full run:
-2026-08-03, ~58s). Numbers move daily as postings open and close — see
+Current snapshot: **37,180 postings** across 378 companies (last full run:
+2026-08-06, ~102s). Numbers move daily as postings open and close — see
 `data/summary.json` for the current count.
 
 Data lives in [`data/`](data/):
@@ -24,7 +24,7 @@ Most companies with a real hiring pipeline publish their open roles through a
 public, unauthenticated JSON (or XML) feed on their ATS — Greenhouse, Lever,
 Ashby, and so on. These feeds are what each platform's own embeddable careers
 widget uses, so they're stable and meant to be read programmatically. This
-repo just fetches ~90 of them daily, normalizes the output, and commits it, so
+repo just fetches ~380 of them daily, normalizes the output, and commits it, so
 you don't have to write nine different parsers to get one CSV of open roles.
 
 ## Schema
@@ -57,7 +57,7 @@ you don't have to write nine different parsers to get one CSV of open roles.
   "employmentType": "FullTime",
   "applyUrl": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245/application",
   "postedAt": "2026-04-07T17:12:35.753+00:00",
-  "scrapedAt": "2026-08-03T19:18:46.567Z"
+  "scrapedAt": "2026-08-06T00:57:02.932Z"
 }
 ```
 
@@ -90,21 +90,21 @@ console.log(`${remote.length} remote postings`);
 
 ## Coverage
 
-90 companies as of the current snapshot, spanning all nine platforms below.
+378 companies as of the current snapshot, spanning all nine platforms below.
 Actual counts shift as feeds change — `data/summary.json` has the live
 breakdown.
 
 | Platform | Endpoint used | Companies in this run |
 |---|---|---|
-| Greenhouse | `boards-api.greenhouse.io/v1/boards/{slug}/jobs` | 44 |
-| Lever | `api.lever.co/v0/postings/{slug}` | 4 |
-| Ashby | `api.ashbyhq.com/posting-api/job-board/{slug}` | 20 |
-| SmartRecruiters | `api.smartrecruiters.com/v1/companies/{slug}/postings` | 5 |
-| Workable | `apply.workable.com/api/v1/widget/accounts/{slug}` | 3 |
-| Recruitee | `{slug}.recruitee.com/api/offers/` | 4 |
-| Personio | `{slug}.jobs.personio.de/xml` | 2 |
+| Greenhouse | `boards-api.greenhouse.io/v1/boards/{slug}/jobs` | 263 |
+| Lever | `api.lever.co/v0/postings/{slug}` | 11 |
+| Ashby | `api.ashbyhq.com/posting-api/job-board/{slug}` | 71 |
+| SmartRecruiters | `api.smartrecruiters.com/v1/companies/{slug}/postings` | 6 |
+| Workable | `apply.workable.com/api/v1/widget/accounts/{slug}` | 4 |
+| Recruitee | `{slug}.recruitee.com/api/offers/` | 5 |
+| Personio | `{slug}.jobs.personio.de/xml` | 6 |
 | BambooHR | `{slug}.bamboohr.com/careers/list` | 2 |
-| Workday | `{tenant}.{shard}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs` | 6 |
+| Workday | `{tenant}.{shard}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs` | 10 |
 
 The full list, including the exact slug/board details used, is in
 [`companies.json`](companies.json).

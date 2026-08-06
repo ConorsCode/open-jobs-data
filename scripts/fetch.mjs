@@ -29,7 +29,14 @@ const USER_AGENT = 'open-jobs-data/1.0 (+https://github.com/) polite-bot';
 // HTTP helpers
 // ---------------------------------------------------------------------------
 
-async function fetchWithRetry(url, options = {}) {
+// NOTE: the abort timeout must stay armed until the response body has been
+// fully read, not just until headers arrive. fetch() resolving only means
+// headers are in; the body is read lazily via res.text(), and if we clear the
+// timeout as soon as fetch() resolves, that body read has no timeout
+// protection at all and can hang forever on a stalled connection. So we read
+// the body *inside* the try block, still under the same AbortController, and
+// only clear the timeout once that's done (success or failure).
+async function fetchWithRetryText(url, options = {}) {
   let lastErr;
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     const controller = new AbortController();
@@ -41,22 +48,26 @@ async function fetchWithRetry(url, options = {}) {
         signal: controller.signal,
         headers: { 'User-Agent': USER_AGENT, Accept: 'application/json,text/xml,*/*', ...(options.headers || {}) },
       });
-      clearTimeout(timeout);
       // Some platforms (Personio, BambooHR) 302 to a marketing page for an
       // unknown/inactive slug instead of returning a real 404.
       if (res.status >= 300 && res.status < 400) {
+        clearTimeout(timeout);
         return { notFound: true, status: res.status };
       }
       if (res.status === 404 || res.status === 422) {
+        clearTimeout(timeout);
         return { notFound: true, status: res.status };
       }
       if (res.status === 429 || res.status >= 500) {
         throw new Error(`HTTP ${res.status}`);
       }
       if (!res.ok) {
+        clearTimeout(timeout);
         return { notFound: true, status: res.status };
       }
-      return { res };
+      const text = await res.text();
+      clearTimeout(timeout);
+      return { text };
     } catch (err) {
       clearTimeout(timeout);
       lastErr = err;
@@ -71,9 +82,8 @@ async function fetchWithRetry(url, options = {}) {
 }
 
 async function getJson(url) {
-  const { res, notFound, status } = await fetchWithRetry(url);
+  const { text, notFound, status } = await fetchWithRetryText(url);
   if (notFound) return { notFound: true, status };
-  const text = await res.text();
   try {
     return { data: JSON.parse(text) };
   } catch {
@@ -82,19 +92,18 @@ async function getJson(url) {
 }
 
 async function getText(url) {
-  const { res, notFound, status } = await fetchWithRetry(url);
+  const { text, notFound, status } = await fetchWithRetryText(url);
   if (notFound) return { notFound: true, status };
-  return { data: await res.text() };
+  return { data: text };
 }
 
 async function postJson(url, body) {
-  const { res, notFound, status } = await fetchWithRetry(url, {
+  const { text, notFound, status } = await fetchWithRetryText(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
   });
   if (notFound) return { notFound: true, status };
-  const text = await res.text();
   try {
     return { data: JSON.parse(text) };
   } catch {
