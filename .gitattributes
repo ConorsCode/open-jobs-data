@@ -1,0 +1,8 @@
+# Generated data files must never be line-merged.
+# Git's 3-way merge will happily interleave two versions of a JSON array or CSV
+# and produce a file that is still syntactically valid but has the wrong number
+# of rows — silent corruption that no test catches. This happened once when the
+# scheduled refresh landed mid-push. Marking them binary forces an explicit
+# conflict instead, and the correct resolution is always to re-run the fetcher.
+data/*.json -merge -diff
+data/*.csv  -merge -diff
