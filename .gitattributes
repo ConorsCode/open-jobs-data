@@ -6,3 +6,4 @@
 # conflict instead, and the correct resolution is always to re-run the fetcher.
 data/*.json -merge -diff
 data/*.csv  -merge -diff
+data/*.xml  -merge -diff

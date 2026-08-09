@@ -499,6 +499,56 @@ async function mapWithConcurrency(items, limit, fn) {
   return results;
 }
 
+function xmlEscape(str) {
+  return String(str == null ? '' : str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function jobKey(job) {
+  return `${job.platform}:${job.jobId}`;
+}
+
+function toRss(newJobs, meta) {
+  const items = newJobs
+    .map((job) => {
+      const title = xmlEscape(`${job.title ?? 'Untitled role'} — ${job.company ?? 'Unknown company'}`);
+      const link = xmlEscape(job.applyUrl ?? '');
+      const locations = Array.isArray(job.locations) ? job.locations.join(', ') : '';
+      const description = xmlEscape(
+        [job.company, locations, job.platform].filter(Boolean).join(' · ')
+      );
+      const pubDate = new Date(job.firstSeenAt ?? Date.now()).toUTCString();
+      const guid = xmlEscape(jobKey(job));
+      return `    <item>
+      <title>${title}</title>
+      <link>${link}</link>
+      <description>${description}</description>
+      <pubDate>${pubDate}</pubDate>
+      <guid isPermaLink="false">${guid}</guid>
+    </item>`;
+    })
+    .join('\n');
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>open-jobs-data — new postings since last snapshot</title>
+    <link>https://github.com/ConorsCode/open-jobs-data</link>
+    <description>Postings that appeared since the previous daily snapshot (${xmlEscape(
+      meta.previousSnapshotAt ?? 'no previous snapshot'
+    )}). This means "newly appeared in our data," not necessarily "posted today" — a company added to our tracked list will show all its jobs as new on that first run.</description>
+    <language>en-us</language>
+    <lastBuildDate>${new Date(meta.generatedAt).toUTCString()}</lastBuildDate>
+${items}
+  </channel>
+</rss>
+`;
+}
+
 function toCsv(rows) {
   const headers = ['company', 'platform', 'jobId', 'title', 'department', 'locations', 'isRemote', 'employmentType', 'applyUrl', 'postedAt', 'scrapedAt'];
   const escape = (v) => {
@@ -514,9 +564,38 @@ function toCsv(rows) {
   return lines.join('\n') + '\n';
 }
 
+async function readPreviousSnapshot() {
+  try {
+    const raw = await readFile(path.join(ROOT, 'data', 'jobs.json'), 'utf8');
+    const jobs = JSON.parse(raw);
+    if (!Array.isArray(jobs)) return null;
+    return jobs;
+  } catch (err) {
+    if (err.code === 'ENOENT') return null;
+    // Malformed previous file — treat like "no previous snapshot" rather than
+    // crashing the whole run, but this is unusual enough to be worth a log.
+    console.error('Could not parse previous data/jobs.json, treating as no previous snapshot:', err.message);
+    return null;
+  }
+}
+
+async function readPreviousSummary() {
+  try {
+    const raw = await readFile(path.join(ROOT, 'data', 'summary.json'), 'utf8');
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
   const companiesRaw = await readFile(path.join(ROOT, 'companies.json'), 'utf8');
   const companies = JSON.parse(companiesRaw);
+
+  // Must be read BEFORE we overwrite data/jobs.json below.
+  const previousJobs = await readPreviousSnapshot();
+  const previousSummary = await readPreviousSummary();
+  const previousSnapshotAt = previousSummary?.generatedAt ?? null;
 
   console.log(`Fetching ${companies.length} companies across ${new Set(companies.map((c) => c.platform)).size} platforms...`);
 
@@ -548,8 +627,46 @@ async function main() {
 
   await mkdir(path.join(ROOT, 'data'), { recursive: true });
 
+  // ---------------------------------------------------------------------
+  // Diff against the previous snapshot BEFORE overwriting it.
+  //
+  // Semantics: "newSinceLastSnapshot" means a (platform, jobId) pair that
+  // did not exist in the previous run's data/jobs.json. This is NOT the
+  // same as "posted today" — postedAt (when platforms expose it) is the
+  // platform's own claim about posting date; a job can appear here because
+  // it's genuinely brand new, or because it belongs to a company that was
+  // just added to companies.json and is appearing in our data for the
+  // first time.
+  //
+  // To avoid the misleading "we just added a company, so all 40 of its
+  // jobs are 'new'" case, we only count a job as new if its company was
+  // ALSO present in the previous snapshot. Jobs from companies with no
+  // presence in the previous snapshot (brand new company additions) are
+  // excluded from new-jobs.json/xml entirely — see data/README.md.
+  let newJobs = [];
+  let firstRun = previousJobs === null;
+  if (!firstRun) {
+    const previousKeys = new Set(previousJobs.map(jobKey));
+    const previousCompanies = new Set(previousJobs.map((j) => j.company));
+    const generatedAt = nowIso();
+    newJobs = allJobs
+      .filter((job) => !previousKeys.has(jobKey(job)) && previousCompanies.has(job.company))
+      .map((job) => ({ ...job, firstSeenAt: generatedAt }));
+  }
+
   await writeFile(path.join(ROOT, 'data', 'jobs.json'), JSON.stringify(allJobs, null, 2) + '\n');
   await writeFile(path.join(ROOT, 'data', 'jobs.csv'), toCsv(allJobs));
+
+  // new-jobs.json is a plain array, same convention as jobs.json, so the app
+  // (and any other consumer) can treat it identically — just fewer rows,
+  // each with an added firstSeenAt. Metadata (count, previousSnapshotAt,
+  // first-run note) lives in summary.json, not duplicated here.
+  const newJobsGeneratedAt = nowIso();
+  await writeFile(path.join(ROOT, 'data', 'new-jobs.json'), JSON.stringify(newJobs, null, 2) + '\n');
+  await writeFile(
+    path.join(ROOT, 'data', 'new-jobs.xml'),
+    toRss(newJobs, { generatedAt: newJobsGeneratedAt, previousSnapshotAt })
+  );
 
   const byPlatform = {};
   const byCompany = {};
@@ -567,6 +684,12 @@ async function main() {
     companiesOk: perCompanyStatus.filter((s) => s.status === 'ok').length,
     companiesFailed: perCompanyStatus.filter((s) => s.status !== 'ok').length,
     elapsedMs,
+    // "new since last snapshot" — see data/README.md for exact semantics
+    // (appeared-in-data, not necessarily posted-today; excludes jobs whose
+    // company wasn't present in the previous snapshot).
+    newSinceLastSnapshot: newJobs.length,
+    previousSnapshotAt,
+    newSinceLastSnapshotFirstRun: firstRun,
     perCompanyStatus,
   };
   await writeFile(path.join(ROOT, 'data', 'summary.json'), JSON.stringify(summary, null, 2) + '\n');
@@ -574,6 +697,11 @@ async function main() {
   console.log(`Done in ${(elapsedMs / 1000).toFixed(1)}s. Total jobs: ${allJobs.length}`);
   console.log('By platform:', byPlatform);
   console.log(`Companies ok: ${summary.companiesOk}/${summary.companiesAttempted}`);
+  console.log(
+    firstRun
+      ? 'New-since-last-snapshot: first run, no previous snapshot to diff against (0 by definition).'
+      : `New since last snapshot: ${newJobs.length} (previous snapshot: ${previousSnapshotAt})`
+  );
   const failed = perCompanyStatus.filter((s) => s.status !== 'ok');
   if (failed.length) {
     console.log('Failed/empty companies:', failed.map((f) => `${f.company}(${f.platform}):${f.status}`).join(', '));

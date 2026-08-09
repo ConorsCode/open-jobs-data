@@ -12,6 +12,10 @@ Data lives in [`data/`](data/):
 
 - [`data/jobs.json`](data/jobs.json) — every posting, as JSON
 - [`data/jobs.csv`](data/jobs.csv) — same data as CSV
+- [`data/new-jobs.json`](data/new-jobs.json) — postings that appeared since the
+  previous snapshot ([what "new" means](data/README.md#what-new-means-read-this-before-relying-on-new-jobsjsonxml))
+- [`data/new-jobs.xml`](data/new-jobs.xml) — the same "new since last snapshot"
+  postings as an RSS 2.0 feed
 - [`data/summary.json`](data/summary.json) — counts by platform/company, run stats
 - [`data/README.md`](data/README.md) — schema doc
 
