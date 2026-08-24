@@ -1,88 +1,376 @@
 [
   {
-    "company": "Anthropic",
+    "company": "Stripe",
     "platform": "greenhouse",
-    "jobId": "5199633008",
-    "title": "Revenue Strategy & Operations",
+    "jobId": "8146053",
+    "title": "Global Partnerships Lead — Greater China, Hong Kong & Singapore",
+    "department": null,
+    "locations": [
+      "Singapore"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=8146053",
+    "postedAt": "2026-08-23T21:56:05-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.699Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Stripe",
+    "platform": "greenhouse",
+    "jobId": "8141453",
+    "title": "GTM Recruiter, APAC",
+    "department": null,
+    "locations": [
+      "Singapore"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=8141453",
+    "postedAt": "2026-08-24T00:22:58-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.699Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Stripe",
+    "platform": "greenhouse",
+    "jobId": "8148731",
+    "title": "Sales Development Representative, Japan",
+    "department": null,
+    "locations": [
+      "Tokyo"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=8148731",
+    "postedAt": "2026-08-24T00:38:53-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.699Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Stripe",
+    "platform": "greenhouse",
+    "jobId": "7827184",
+    "title": "Solutions Architect, Enterprise (Pre-sales)",
+    "department": null,
+    "locations": [
+      "Chicago, IL or San Francisco, CA OR US Remote"
+    ],
+    "isRemote": true,
+    "employmentType": null,
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7827184",
+    "postedAt": "2026-05-11T20:15:30-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.699Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Stripe",
+    "platform": "greenhouse",
+    "jobId": "8152145",
+    "title": "Solutions Architect, Platforms (Presales)",
+    "department": null,
+    "locations": [
+      "NYC or Remote"
+    ],
+    "isRemote": true,
+    "employmentType": null,
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=8152145",
+    "postedAt": "2026-08-23T15:36:21-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.699Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Stripe",
+    "platform": "greenhouse",
+    "jobId": "8144212",
+    "title": "Solutions Architect, SMB (Presales)",
+    "department": null,
+    "locations": [
+      "Chicago or NYC"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=8144212",
+    "postedAt": "2026-08-23T15:35:09-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.699Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Figma",
+    "platform": "greenhouse",
+    "jobId": "6150074004",
+    "title": "Executive Communications Manager",
+    "department": null,
+    "locations": [
+      "San Francisco, CA • New York, NY"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://boards.greenhouse.io/figma/jobs/6150074004?gh_jid=6150074004",
+    "postedAt": "2026-08-23T19:41:58-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.710Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Cloudflare",
+    "platform": "greenhouse",
+    "jobId": "8147148",
+    "title": "Senior Customer Engineer, East China",
+    "department": null,
+    "locations": [
+      "Distributed"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148",
+    "postedAt": "2026-08-23T10:33:30-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.936Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Cloudflare",
+    "platform": "greenhouse",
+    "jobId": "8147213",
+    "title": "Senior Customer Engineer, iGaming ",
+    "department": null,
+    "locations": [
+      "Hybrid"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8147213?gh_jid=8147213",
+    "postedAt": "2026-08-23T10:39:14-04:00",
+    "scrapedAt": "2026-08-24T06:39:43.936Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Datadog",
+    "platform": "greenhouse",
+    "jobId": "7790048",
+    "title": "Customer Success Manager",
     "department": null,
     "locations": [
       "Seoul, South Korea"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5199633008",
-    "postedAt": "2026-04-24T08:19:08-04:00",
-    "scrapedAt": "2026-08-23T06:26:53.529Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://careers.datadoghq.com/detail/7790048/?gh_jid=7790048",
+    "postedAt": "2026-04-15T02:53:16-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.165Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Datadog",
+    "platform": "greenhouse",
+    "jobId": "7790098",
+    "title": "Customer Success Manager",
+    "department": null,
+    "locations": [
+      "Seoul, South Korea"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.datadoghq.com/detail/7790098/?gh_jid=7790098",
+    "postedAt": "2026-04-15T02:53:17-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.165Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Datadog",
+    "platform": "greenhouse",
+    "jobId": "7531575",
+    "title": "Sales Development Representative",
+    "department": null,
+    "locations": [
+      "Bangalore, India"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.datadoghq.com/detail/7531575/?gh_jid=7531575",
+    "postedAt": "2026-01-13T20:57:45-05:00",
+    "scrapedAt": "2026-08-24T06:39:44.166Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Datadog",
+    "platform": "greenhouse",
+    "jobId": "8088095",
+    "title": "Sales Engineer - Enterprise",
+    "department": null,
+    "locations": [
+      "Tokyo, Japan"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.datadoghq.com/detail/8088095/?gh_jid=8088095",
+    "postedAt": "2026-08-23T22:52:02-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.166Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Datadog",
+    "platform": "greenhouse",
+    "jobId": "8090275",
+    "title": "Sales Engineer - Enterprise",
+    "department": null,
+    "locations": [
+      "Tokyo, Japan"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.datadoghq.com/detail/8090275/?gh_jid=8090275",
+    "postedAt": "2026-08-23T22:52:00-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.166Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "GitLab",
+    "platform": "greenhouse",
+    "jobId": "8736457002",
+    "title": "Business Development Representative (Sydney or Melbourne)",
+    "department": null,
+    "locations": [
+      "Remote, Australia"
+    ],
+    "isRemote": true,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8736457002",
+    "postedAt": "2026-08-24T01:28:11-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.158Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Anthropic",
+    "platform": "greenhouse",
+    "jobId": "5163060008",
+    "title": "Finance & Strategy, GTM - Post Sales ",
+    "department": null,
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5163060008",
+    "postedAt": "2026-07-17T22:33:36-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.406Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Databricks",
     "platform": "greenhouse",
-    "jobId": "8632126002",
-    "title": "Full Stack Developer (AI Agents)",
+    "jobId": "8603672002",
+    "title": "Director, Enterprise ",
+    "department": null,
+    "locations": [
+      "Singapore"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8603672002",
+    "postedAt": "2026-08-24T02:04:27-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.415Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Databricks",
+    "platform": "greenhouse",
+    "jobId": "8736500002",
+    "title": "Emerging Enterprise Hunter Account Executive",
+    "department": null,
+    "locations": [
+      "Sydney, Australia"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736500002",
+    "postedAt": "2026-08-23T22:28:56-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.415Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Flexport",
+    "platform": "greenhouse",
+    "jobId": "8100073",
+    "title": "Senior Systems Engineer (Identity and Access)",
+    "department": null,
+    "locations": [
+      "San Francisco, California, United States"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/flexport/jobs/8100073",
+    "postedAt": "2026-08-23T13:33:30-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.057Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Okta",
+    "platform": "greenhouse",
+    "jobId": "8146575",
+    "title": "Cloud & ISV Alliances Manager –  APJ (excluding ANZ)",
+    "department": null,
+    "locations": [
+      "Singapore"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.okta.com/company/careers/opportunity/8146575?gh_jid=8146575",
+    "postedAt": "2026-08-24T00:20:22-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.870Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Okta",
+    "platform": "greenhouse",
+    "jobId": "8102281",
+    "title": "Sales Development Representative",
+    "department": null,
+    "locations": [
+      "Tokyo, Japan"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.okta.com/company/careers/opportunity/8102281?gh_jid=8102281",
+    "postedAt": "2026-08-23T23:46:06-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.870Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Okta",
+    "platform": "greenhouse",
+    "jobId": "8146815",
+    "title": "Senior Software Engineer, Identity Administration",
     "department": null,
     "locations": [
       "Bengaluru, India"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002",
-    "postedAt": "2026-07-30T02:43:08-04:00",
-    "scrapedAt": "2026-08-23T06:26:53.553Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Databricks",
-    "platform": "greenhouse",
-    "jobId": "8740680002",
-    "title": "Senior Designated Support Engineer",
-    "department": null,
-    "locations": [
-      "Sydney, Australia"
-    ],
-    "isRemote": null,
-    "employmentType": null,
-    "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8740680002",
-    "postedAt": "2026-08-22T12:47:59-04:00",
-    "scrapedAt": "2026-08-23T06:26:53.553Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Databricks",
-    "platform": "greenhouse",
-    "jobId": "8661524002",
-    "title": "Staff Designated Support Engineer",
-    "department": null,
-    "locations": [
-      "Sydney, Australia"
-    ],
-    "isRemote": null,
-    "employmentType": null,
-    "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661524002",
-    "postedAt": "2026-08-22T12:40:27-04:00",
-    "scrapedAt": "2026-08-23T06:26:53.554Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Doximity",
-    "platform": "greenhouse",
-    "jobId": "8149237",
-    "title": "Senior Manager, Pricing & Yield",
-    "department": null,
-    "locations": [
-      "San Francisco, CA or Remote (U.S.)"
-    ],
-    "isRemote": true,
-    "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/doximity/jobs/8149237",
-    "postedAt": "2026-08-22T09:39:32-04:00",
-    "scrapedAt": "2026-08-23T06:26:53.736Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://www.okta.com/company/careers/opportunity/8146815?gh_jid=8146815",
+    "postedAt": "2026-08-23T03:15:04-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.870Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Okta",
     "platform": "greenhouse",
-    "jobId": "8147071",
+    "jobId": "8146810",
+    "title": "Senior Software Engineer, Identity Administration",
+    "department": null,
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.okta.com/company/careers/opportunity/8146810?gh_jid=8146810",
+    "postedAt": "2026-08-23T03:11:28-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.870Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Okta",
+    "platform": "greenhouse",
+    "jobId": "7831189",
     "title": "Staff Software Engineer",
     "department": null,
     "locations": [
@@ -90,394 +378,3000 @@
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071",
-    "postedAt": "2026-08-23T00:55:05-04:00",
-    "scrapedAt": "2026-08-23T06:26:53.881Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://www.okta.com/company/careers/opportunity/7831189?gh_jid=7831189",
+    "postedAt": "2026-08-24T01:19:17-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.870Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Okta",
+    "platform": "greenhouse",
+    "jobId": "8147222",
+    "title": "Staff Software Engineer ",
+    "department": null,
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.okta.com/company/careers/opportunity/8147222?gh_jid=8147222",
+    "postedAt": "2026-08-24T01:16:38-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.870Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Elastic",
+    "platform": "greenhouse",
+    "jobId": "8138599",
+    "title": "Consulting Architect - Security (Canberra)",
+    "department": null,
+    "locations": [
+      "Australia"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://jobs.elastic.co/jobs?gh_jid=8138599&gh_jid=8138599",
+    "postedAt": "2026-08-24T01:29:58-04:00",
+    "scrapedAt": "2026-08-24T06:39:44.905Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "MongoDB",
+    "platform": "greenhouse",
+    "jobId": "7493634",
+    "title": "Staff Technical Program Manager, GTM Tech",
+    "department": null,
+    "locations": [
+      "Gurugram"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=7493634",
+    "postedAt": "2026-01-14T06:05:28-05:00",
+    "scrapedAt": "2026-08-24T06:39:44.998Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Udemy",
+    "platform": "greenhouse",
+    "jobId": "6142399004",
+    "title": "Senior Pre-Sales Engineer",
+    "department": null,
+    "locations": [
+      "Remote, Japan"
+    ],
+    "isRemote": true,
+    "employmentType": null,
+    "applyUrl": "https://app.careerpuck.com/job-board/udemy/job/6142399004?gh_jid=6142399004",
+    "postedAt": "2026-08-24T00:11:57-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.219Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Gusto",
+    "platform": "greenhouse",
+    "jobId": "8121732",
+    "title": "Staff Software Engineer- Retirement",
+    "department": null,
+    "locations": [
+      "United States"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/gusto/jobs/8121732",
+    "postedAt": "2026-08-23T19:20:04-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.944Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Toast",
+    "platform": "greenhouse",
+    "jobId": "8152206",
+    "title": "Territory Account Executive, SMB - Eastmont, WA",
+    "department": null,
+    "locations": [
+      "Eastmont, WA"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8152206",
+    "postedAt": "2026-08-23T21:14:46-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.957Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Toast",
+    "platform": "greenhouse",
+    "jobId": "8152210",
+    "title": "Territory Account Executive , SMB - Lincoln/West Omaha, NE ",
+    "department": null,
+    "locations": [
+      "Omaha, NE"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8152210",
+    "postedAt": "2026-08-23T21:23:10-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.957Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Toast",
+    "platform": "greenhouse",
+    "jobId": "8152207",
+    "title": "Territory Account Executive , SMB - NW Houston, TX",
+    "department": null,
+    "locations": [
+      "Houston, TX"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8152207",
+    "postedAt": "2026-08-23T21:16:38-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.957Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Toast",
+    "platform": "greenhouse",
+    "jobId": "8152212",
+    "title": "Territory Account Executive , SMB - Oklahoma",
+    "department": null,
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8152212",
+    "postedAt": "2026-08-23T21:29:31-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.957Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Toast",
+    "platform": "greenhouse",
+    "jobId": "8152211",
+    "title": "Territory Account Executive , SMB - Oklahoma",
+    "department": null,
+    "locations": [
+      "Oklahoma City "
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://careers.toasttab.com/jobs?gh_jid=8152211",
+    "postedAt": "2026-08-23T21:29:28-04:00",
+    "scrapedAt": "2026-08-24T06:39:45.957Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "SoFi",
+    "platform": "greenhouse",
+    "jobId": "7930079003",
+    "title": "Director of Digital Employee Experience",
+    "department": null,
+    "locations": [
+      "San Francisco, California"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://sofi.com/careers/job/7930079003?gh_jid=7930079003",
+    "postedAt": "2026-08-21T13:46:29-04:00",
+    "scrapedAt": "2026-08-24T06:39:46.409Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Anduril",
     "platform": "greenhouse",
-    "jobId": "5219512007",
-    "title": "Electrical Engineer, Intelligence Systems",
+    "jobId": "5219632007",
+    "title": "Supervisor, Manufacturing Operations, Connected Warfare",
     "department": null,
     "locations": [
-      "Costa Mesa, California, United States"
+      "Santa Ana, California, United States"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007",
-    "postedAt": "2026-08-23T01:57:36-04:00",
-    "scrapedAt": "2026-08-23T06:26:55.128Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5219632007?gh_jid=5219632007",
+    "postedAt": "2026-08-24T00:45:04-04:00",
+    "scrapedAt": "2026-08-24T06:39:46.815Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
-    "company": "Anduril",
+    "company": "Verkada",
     "platform": "greenhouse",
-    "jobId": "5219419007",
-    "title": "Senior Thermal Engineer, Expeditionary AI / HPC Data Centers",
+    "jobId": "5219548007",
+    "title": "GRC Engineer ",
     "department": null,
     "locations": [
-      "Costa Mesa, California, United States"
+      "San Mateo, CA United States"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5219419007?gh_jid=5219419007",
-    "postedAt": "2026-08-22T12:32:56-04:00",
-    "scrapedAt": "2026-08-23T06:26:55.130Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219548007",
+    "postedAt": "2026-08-23T15:50:06-04:00",
+    "scrapedAt": "2026-08-24T06:39:48.791Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
-    "company": "Anduril",
+    "company": "Varda Space",
     "platform": "greenhouse",
-    "jobId": "5219476007",
-    "title": "Thermal Engineer, Hypersonic Air Vehicles",
+    "jobId": "7953145003",
+    "title": "Senior Space Build Reliability Engineer",
     "department": null,
     "locations": [
-      "Costa Mesa, California, United States"
+      "El Segundo, California, United States"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5219476007?gh_jid=5219476007",
-    "postedAt": "2026-08-22T16:34:26-04:00",
-    "scrapedAt": "2026-08-23T06:26:55.131Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7953145003",
+    "postedAt": "2026-08-23T14:54:58-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.054Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Varda Space",
+    "platform": "greenhouse",
+    "jobId": "7952931003",
+    "title": "Senior Terrestrial Ground Support Equipment Engineer - Automation & Python",
+    "department": null,
+    "locations": [
+      "El Segundo, California, United States"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7952931003",
+    "postedAt": "2026-08-23T14:31:37-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.054Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Varda Space",
+    "platform": "greenhouse",
+    "jobId": "7953146003",
+    "title": "Space Build Reliability Engineer, RCA",
+    "department": null,
+    "locations": [
+      "El Segundo, California, United States"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7953146003",
+    "postedAt": "2026-08-23T14:56:25-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.054Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Varda Space",
+    "platform": "greenhouse",
+    "jobId": "7953147003",
+    "title": "Space Process Engineer, Manufacturability",
+    "department": null,
+    "locations": [
+      "El Segundo, California, United States"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7953147003",
+    "postedAt": "2026-08-23T14:57:15-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.054Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Varda Space",
+    "platform": "greenhouse",
+    "jobId": "7952930003",
+    "title": "Terrestrial Controls Engineer - Automation & Python",
+    "department": null,
+    "locations": [
+      "El Segundo, California, United States"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7952930003",
+    "postedAt": "2026-08-23T14:30:23-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.054Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Varda Space",
+    "platform": "greenhouse",
+    "jobId": "7952932003",
+    "title": "Terrestrial Ground Support Equipment Engineer - Automation & Python",
+    "department": null,
+    "locations": [
+      "El Segundo, California, United States"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/7952932003",
+    "postedAt": "2026-08-23T14:33:15-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.054Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Carvana",
     "platform": "greenhouse",
-    "jobId": "8149298",
-    "title": "Parts Manager",
+    "jobId": "8130905",
+    "title": "Operations Manager - West Memphis",
     "department": null,
     "locations": [
-      "San Diego, CA"
+      "West Memphis, AR"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://www.carvana.com/careers/apply?gh_jid=8149298",
-    "postedAt": "2026-08-22T12:02:15-04:00",
-    "scrapedAt": "2026-08-23T06:26:56.685Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://www.carvana.com/careers/apply?gh_jid=8130905",
+    "postedAt": "2026-08-14T15:25:59-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.319Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
-    "company": "Remote.com",
+    "company": "Carvana",
     "platform": "greenhouse",
-    "jobId": "7941965003",
-    "title": "Director, Strategic Partner Sales",
+    "jobId": "8130357",
+    "title": "Reconditioning Manager - West Memphis",
     "department": null,
     "locations": [
-      "Remote-UK&I"
-    ],
-    "isRemote": true,
-    "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/remotecom/jobs/7941965003",
-    "postedAt": "2026-08-22T14:34:03-04:00",
-    "scrapedAt": "2026-08-23T06:26:57.374Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Remote.com",
-    "platform": "greenhouse",
-    "jobId": "7941984003",
-    "title": "Director, Strategic Partner Sales",
-    "department": null,
-    "locations": [
-      "Remote-NORAM"
-    ],
-    "isRemote": true,
-    "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/remotecom/jobs/7941984003",
-    "postedAt": "2026-08-22T14:34:06-04:00",
-    "scrapedAt": "2026-08-23T06:26:57.374Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Remote.com",
-    "platform": "greenhouse",
-    "jobId": "7836488003",
-    "title": "Director, Strategic Partner Sales",
-    "department": null,
-    "locations": [
-      "Remote-Western Europe"
-    ],
-    "isRemote": true,
-    "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/remotecom/jobs/7836488003",
-    "postedAt": "2026-08-22T14:34:01-04:00",
-    "scrapedAt": "2026-08-23T06:26:57.374Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Remote.com",
-    "platform": "greenhouse",
-    "jobId": "7761134003",
-    "title": "Senior Site Reliability Engineer",
-    "department": null,
-    "locations": [
-      "Remote-EMEA"
-    ],
-    "isRemote": true,
-    "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/remotecom/jobs/7761134003",
-    "postedAt": "2026-06-26T06:57:55-04:00",
-    "scrapedAt": "2026-08-23T06:26:57.375Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Gympass",
-    "platform": "greenhouse",
-    "jobId": "8733968002",
-    "title": "User Growth Senior Manager",
-    "department": null,
-    "locations": [
-      "Mexico (CDMX - Remote)"
-    ],
-    "isRemote": true,
-    "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/gympass/jobs/8733968002",
-    "postedAt": "2026-08-22T10:11:59-04:00",
-    "scrapedAt": "2026-08-23T06:27:00.092Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Turing",
-    "platform": "greenhouse",
-    "jobId": "6150806004",
-    "title": "Workplace Operations Associate",
-    "department": null,
-    "locations": [
-      "Palo Alto, California, United States"
+      "West Memphis, AR"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/turing/jobs/6150806004",
-    "postedAt": "2026-08-22T09:08:26-04:00",
-    "scrapedAt": "2026-08-23T06:27:01.310Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://www.carvana.com/careers/apply?gh_jid=8130357",
+    "postedAt": "2026-08-14T12:28:33-04:00",
+    "scrapedAt": "2026-08-24T06:39:49.319Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
-    "company": "Turing",
+    "company": "Culture Amp",
     "platform": "greenhouse",
-    "jobId": "6150810004",
-    "title": "Workplace Operations Associate - Part-time",
+    "jobId": "8152197",
+    "title": "Identity & Access Management Engineer",
     "department": null,
     "locations": [
-      "San Francisco, California, United States"
+      "Melbourne"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/turing/jobs/6150810004",
-    "postedAt": "2026-08-22T09:29:59-04:00",
-    "scrapedAt": "2026-08-23T06:27:01.310Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://job-boards.greenhouse.io/cultureamp/jobs/8152197",
+    "postedAt": "2026-08-23T20:36:08-04:00",
+    "scrapedAt": "2026-08-24T06:39:50.250Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
-    "company": "OKX",
+    "company": "DoorDash",
     "platform": "greenhouse",
-    "jobId": "7941620003",
-    "title": "Lead / Expert, RWA Ecosystem Growth",
+    "jobId": "7194827",
+    "title": "Shift Lead - Broomfield",
     "department": null,
     "locations": [
-      "Hong Kong, Hong Kong SAR"
+      "Broomfield, CO"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://job-boards.greenhouse.io/okx/jobs/7941620003",
-    "postedAt": "2026-08-22T13:40:41-04:00",
-    "scrapedAt": "2026-08-23T06:27:02.025Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7194827",
+    "postedAt": "2025-08-26T13:42:26-04:00",
+    "scrapedAt": "2026-08-24T06:39:50.606Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Cato Networks",
+    "platform": "greenhouse",
+    "jobId": "4951235101",
+    "title": " Agentic AI Engineer - Product Support",
+    "department": null,
+    "locations": [
+      "Tel Aviv District, Israel"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.catonetworks.com/careers/careers-post/4951235101?gh_jid=4951235101",
+    "postedAt": "2026-08-17T04:13:58-04:00",
+    "scrapedAt": "2026-08-24T06:39:51.002Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Cato Networks",
+    "platform": "greenhouse",
+    "jobId": "4850403101",
+    "title": "Research Engineer (Network)",
+    "department": null,
+    "locations": [
+      "Tel Aviv District, Israel"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.catonetworks.com/careers/careers-post/4850403101?gh_jid=4850403101",
+    "postedAt": "2026-04-26T05:21:02-04:00",
+    "scrapedAt": "2026-08-24T06:39:51.002Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Snorkel AI",
+    "platform": "greenhouse",
+    "jobId": "6132370004",
+    "title": "Technical Project Manager - Enterprise AI Solutions",
+    "department": null,
+    "locations": [
+      "New York City, NY (Hybrid); United States (Remote)"
+    ],
+    "isRemote": true,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/snorkelai/jobs/6132370004",
+    "postedAt": "2026-07-31T17:56:54-04:00",
+    "scrapedAt": "2026-08-24T06:39:51.437Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Globalization Partners",
+    "platform": "greenhouse",
+    "jobId": "7917334003",
+    "title": "Sales Executive",
+    "department": null,
+    "locations": [
+      "China (Remote-First)"
+    ],
+    "isRemote": true,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7917334003",
+    "postedAt": "2026-08-24T00:54:23-04:00",
+    "scrapedAt": "2026-08-24T06:39:51.694Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Fireblocks",
+    "platform": "greenhouse",
+    "jobId": "4706203006",
+    "title": "DevOps Team Leader",
+    "department": null,
+    "locations": [
+      "Tel Aviv-Yafo, Tel Aviv District, Israel"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4706203006",
+    "postedAt": "2026-08-24T02:29:30-04:00",
+    "scrapedAt": "2026-08-24T06:39:51.917Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Qualtrics",
+    "platform": "greenhouse",
+    "jobId": "8132368",
+    "title": "Enterprise Account Executive",
+    "department": null,
+    "locations": [
+      "Sydney, New South Wales, Australia"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://www.qualtrics.com/careers/us/en/job/8132368?gh_jid=8132368",
+    "postedAt": "2026-08-24T02:35:38-04:00",
+    "scrapedAt": "2026-08-24T06:39:55.268Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bybit",
+    "platform": "greenhouse",
+    "jobId": "4958691101",
+    "title": "Principal Risk Control Development Engineer",
+    "department": null,
+    "locations": [
+      "Kuala Lumpur, Malaysia"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4958691101",
+    "postedAt": "2026-08-24T00:55:27-04:00",
+    "scrapedAt": "2026-08-24T06:39:55.832Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bybit",
+    "platform": "greenhouse",
+    "jobId": "4958625101",
+    "title": "VIP Relationship Manager",
+    "department": null,
+    "locations": [
+      "Abu Dhabi, UAE"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4958625101",
+    "postedAt": "2026-08-23T17:24:16-04:00",
+    "scrapedAt": "2026-08-24T06:39:55.832Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "OpenAI",
     "platform": "ashby",
-    "jobId": "5f3a6397-47ac-4ef0-9ca9-cd358851a6b9",
-    "title": "Strategic Delivery Lead, Intelligence Community",
-    "department": "OpenAI for Gov",
+    "jobId": "ad6b55f9-fa63-4860-b852-d90592e49d1c",
+    "title": "BIM Designer & Coordinator",
+    "department": "Scaling",
     "locations": [
-      "Washington, DC"
+      "San Francisco",
+      "Seattle",
+      "US - Remote"
     ],
     "isRemote": true,
     "employmentType": "FullTime",
-    "applyUrl": "https://jobs.ashbyhq.com/openai/5f3a6397-47ac-4ef0-9ca9-cd358851a6b9/application",
-    "postedAt": "2026-08-23T04:26:49.729+00:00",
-    "scrapedAt": "2026-08-23T06:27:05.459Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c/application",
+    "postedAt": "2026-08-23T21:53:27.920+00:00",
+    "scrapedAt": "2026-08-24T06:39:58.658Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
-    "company": "Suno",
+    "company": "OpenAI",
     "platform": "ashby",
-    "jobId": "2d13c0b6-69f6-4264-978e-ff08115bcb3b",
-    "title": "Social Media Community Manager",
-    "department": "Brand and Creative",
+    "jobId": "831e2f91-c213-4208-9eb3-4ce2cc6b9acf",
+    "title": "Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment",
+    "department": "Scaling",
     "locations": [
-      "NYC",
-      "Los Angeles"
+      "San Francisco"
     ],
     "isRemote": null,
     "employmentType": "FullTime",
-    "applyUrl": "https://jobs.ashbyhq.com/suno/2d13c0b6-69f6-4264-978e-ff08115bcb3b/application",
-    "postedAt": "2026-08-22T20:00:56.060+00:00",
-    "scrapedAt": "2026-08-23T06:27:06.149Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.ashbyhq.com/openai/831e2f91-c213-4208-9eb3-4ce2cc6b9acf/application",
+    "postedAt": "2026-08-23T20:19:09.799+00:00",
+    "scrapedAt": "2026-08-24T06:39:58.658Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
-    "company": "The Wonderful Company",
-    "platform": "smartrecruiters",
-    "jobId": "744000144875909",
-    "title": "Territory Sales Manager - Wonderful Pistachios, POM Wonderful, Halos Citrus ",
-    "department": "Merchandising",
+    "company": "OpenAI",
+    "platform": "ashby",
+    "jobId": "ece054ea-ac75-4b8a-bdbf-5cdf19368312",
+    "title": "Manufacturing Quality Engineer – Datacenter Infrastructure",
+    "department": "Scaling",
     "locations": [
-      "Des Moines, IA, United States"
+      "San Francisco"
+    ],
+    "isRemote": null,
+    "employmentType": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312/application",
+    "postedAt": "2026-08-23T22:31:59.970+00:00",
+    "scrapedAt": "2026-08-24T06:39:58.658Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "OpenAI",
+    "platform": "ashby",
+    "jobId": "32905f5c-9405-4073-bc65-c57fcf55a83d",
+    "title": "Account Director, Startups | Tokyo",
+    "department": "Go To Market",
+    "locations": [
+      "Tokyo, Japan"
+    ],
+    "isRemote": true,
+    "employmentType": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/openai/32905f5c-9405-4073-bc65-c57fcf55a83d/application",
+    "postedAt": "2026-08-24T06:22:18.564+00:00",
+    "scrapedAt": "2026-08-24T06:39:58.659Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Harvey",
+    "platform": "ashby",
+    "jobId": "f3708fe6-d2f4-47db-bffd-9063d6bb06ec",
+    "title": "Innovation Product Manager, Australia",
+    "department": "Product",
+    "locations": [
+      "Sydney"
+    ],
+    "isRemote": true,
+    "employmentType": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/harvey/f3708fe6-d2f4-47db-bffd-9063d6bb06ec/application",
+    "postedAt": "2026-08-23T23:39:55.907+00:00",
+    "scrapedAt": "2026-08-24T06:39:59.318Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "ElevenLabs",
+    "platform": "ashby",
+    "jobId": "d16a7ad6-ffbd-4655-8716-4872263f99ce",
+    "title": "Developer Experience Engineer",
+    "department": "Growth",
+    "locations": [
+      "London",
+      "New York"
+    ],
+    "isRemote": true,
+    "employmentType": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/d16a7ad6-ffbd-4655-8716-4872263f99ce/application",
+    "postedAt": "2026-08-23T21:43:47.787+00:00",
+    "scrapedAt": "2026-08-24T06:39:59.545Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Skydio",
+    "platform": "ashby",
+    "jobId": "456b1f2d-b9d2-4a85-b04d-1b9987d564ce",
+    "title": "Senior Manager, Product Design Engineering",
+    "department": "R&D",
+    "locations": [
+      "San Mateo, California, United States"
+    ],
+    "isRemote": false,
+    "employmentType": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/skydio/456b1f2d-b9d2-4a85-b04d-1b9987d564ce/application",
+    "postedAt": "2026-08-24T06:11:57.119+00:00",
+    "scrapedAt": "2026-08-24T06:40:00.882Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Equinox",
+    "platform": "smartrecruiters",
+    "jobId": "744000124160789",
+    "title": "Senior Director, Growth Marketing",
+    "department": "Corporate - Marketing",
+    "locations": [
+      "New York, NY, United States"
     ],
     "isRemote": false,
     "employmentType": "Full-time",
-    "applyUrl": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000144875909",
-    "postedAt": "2026-08-22T06:47:15.837Z",
-    "scrapedAt": "2026-08-23T06:27:09.515Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.smartrecruiters.com/Equinox/744000124160789",
+    "postedAt": "2026-05-01T17:14:10.537Z",
+    "scrapedAt": "2026-08-24T06:40:04.757Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Equinox",
+    "platform": "smartrecruiters",
+    "jobId": "744000123554189",
+    "title": "Rock Wall Instructor - Sports Club New York",
+    "department": "Club - Staff",
+    "locations": [
+      "New York, NY, United States"
+    ],
+    "isRemote": false,
+    "employmentType": "Part-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/Equinox/744000123554189",
+    "postedAt": "2026-04-28T21:31:21.978Z",
+    "scrapedAt": "2026-08-24T06:40:04.757Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Equinox",
+    "platform": "smartrecruiters",
+    "jobId": "744000123262989",
+    "title": "Dual-Licensed Spa Therapists, Studio City",
+    "department": "Club - Massage Therapists",
+    "locations": [
+      "Los Angeles, CA, United States"
+    ],
+    "isRemote": false,
+    "employmentType": "Part-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/Equinox/744000123262989",
+    "postedAt": "2026-04-27T17:27:42.162Z",
+    "scrapedAt": "2026-08-24T06:40:04.757Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Equinox",
+    "platform": "smartrecruiters",
+    "jobId": "744000122535862",
+    "title": "Licensed Massage Therapist, Sports Club DC",
+    "department": "Club - Massage Therapists",
+    "locations": [
+      "Washington, DC, United States"
+    ],
+    "isRemote": false,
+    "employmentType": "Part-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/Equinox/744000122535862",
+    "postedAt": "2026-04-23T19:56:18.414Z",
+    "scrapedAt": "2026-08-24T06:40:04.757Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Equinox",
+    "platform": "smartrecruiters",
+    "jobId": "744000122535678",
+    "title": "Licensed Massage Therapist, Wisconsin Ave",
+    "department": "Club - Massage Therapists",
+    "locations": [
+      "Washington, DC, United States"
+    ],
+    "isRemote": false,
+    "employmentType": "Part-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/Equinox/744000122535678",
+    "postedAt": "2026-04-23T19:54:00.310Z",
+    "scrapedAt": "2026-08-24T06:40:04.757Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Equinox",
+    "platform": "smartrecruiters",
+    "jobId": "744000122535659",
+    "title": "Licensed Massage Therapist, New York City",
+    "department": "Club - Massage Therapists",
+    "locations": [
+      "New York, NY, United States"
+    ],
+    "isRemote": false,
+    "employmentType": "Part-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/Equinox/744000122535659",
+    "postedAt": "2026-04-23T19:53:48.459Z",
+    "scrapedAt": "2026-08-24T06:40:04.757Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Bosch Group",
     "platform": "smartrecruiters",
-    "jobId": "744000145026980",
-    "title": "Product manager for Power Electronics_EM",
-    "department": "Consulting",
+    "jobId": "744000145194648",
+    "title": "Senior Autosar Architect (Classic + Adaptive)",
+    "department": "Engineering",
+    "locations": [
+      "bangalore, , India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145194648",
+    "postedAt": "2026-08-24T06:36:52.152Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145193240",
+    "title": "ASIC CAD support engineer_RBCN/ME",
+    "department": "Engineering",
     "locations": [
       "Shanghai, Shanghai, China"
     ],
     "isRemote": false,
     "employmentType": "Full-time",
-    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145026980",
-    "postedAt": "2026-08-23T04:44:00.358Z",
-    "scrapedAt": "2026-08-23T06:27:10.862Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145193240",
+    "postedAt": "2026-08-24T06:28:36.545Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Bosch Group",
     "platform": "smartrecruiters",
-    "jobId": "744000144892579",
-    "title": "Digital Transformation & Integration Specialist",
-    "department": "Information Technology",
+    "jobId": "744000145189959",
+    "title": "Process & Maintenance Engineer Pre-Assembly (w/m/div.)",
+    "department": "Production",
     "locations": [
-      "Long Thanh, Dong Nai, , Vietnam"
+      "Dresden, SN, Germany"
     ],
     "isRemote": false,
     "employmentType": "Full-time",
-    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000144892579",
-    "postedAt": "2026-08-23T00:08:00.879Z",
-    "scrapedAt": "2026-08-23T06:27:10.862Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145189959",
+    "postedAt": "2026-08-24T05:59:47.256Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Bosch Group",
     "platform": "smartrecruiters",
-    "jobId": "744000144886809",
-    "title": "Mechanical Project Leader I (OSS)",
+    "jobId": "744000145189117",
+    "title": "Technischer Redakteur/Informationsmanager mit Schwerpunkt Redaktionssystem und IT-Applikationen (w/m/div.) ",
     "department": "Engineering",
     "locations": [
-      "Guadalajara, Jalisco, Mexico"
+      "Wernau (Neckar), BW, Germany"
     ],
     "isRemote": false,
     "employmentType": "Full-time",
-    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000144886809",
-    "postedAt": "2026-08-22T14:48:02.355Z",
-    "scrapedAt": "2026-08-23T06:27:10.862Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145189117",
+    "postedAt": "2026-08-24T05:58:05.713Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Bosch Group",
     "platform": "smartrecruiters",
-    "jobId": "744000144885209",
-    "title": "ANALISTA DE LOGÍSTICA JUNIOR (35517/35518)",
-    "department": "Supply Chain",
-    "locations": [
-      "Campinas, SP, Brazil"
-    ],
-    "isRemote": false,
-    "employmentType": "Full-time",
-    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000144885209",
-    "postedAt": "2026-08-22T13:23:40.864Z",
-    "scrapedAt": "2026-08-23T06:27:10.862Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
-  },
-  {
-    "company": "Bosch Group",
-    "platform": "smartrecruiters",
-    "jobId": "744000144881999",
-    "title": "Software Engineer – High Voltage Drive Electronics",
+    "jobId": "744000145189729",
+    "title": "Bosch Production System or Lean Coordinator",
     "department": "Engineering",
+    "locations": [
+      "Bengaluru, KA, India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145189729",
+    "postedAt": "2026-08-24T05:56:29.629Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145188027",
+    "title": "Deputy Manager - Key User Manager - Large Users",
+    "department": "Sales",
+    "locations": [
+      "Chennai, Tamil Nadu, India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145188027",
+    "postedAt": "2026-08-24T05:54:04.440Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145185264",
+    "title": "MES Application Engineer",
+    "department": "Engineering",
+    "locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145185264",
+    "postedAt": "2026-08-24T05:17:10.768Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145185349",
+    "title": "[Internship] IT Operations & Administration Intern",
+    "department": "Manufacturing",
+    "locations": [
+      "Thành phố Hồ Chí Minh, , Vietnam"
+    ],
+    "isRemote": false,
+    "employmentType": "Intern",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145185349",
+    "postedAt": "2026-08-24T05:02:08.713Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145182559",
+    "title": "[Internship] Technical Support Intern",
+    "department": "Manufacturing",
+    "locations": [
+      "Ho Chi Minh, , Vietnam"
+    ],
+    "isRemote": false,
+    "employmentType": "Intern",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145182559",
+    "postedAt": "2026-08-24T04:13:10.231Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145170559",
+    "title": "Virtual/Team Assistant",
+    "department": "Management",
+    "locations": [
+      "Taguig, , Philippines"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145170559",
+    "postedAt": "2026-08-24T03:47:20.962Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145161098",
+    "title": "Director, Simulation and Evaluation - Autonomous Driving",
+    "department": "Engineering",
+    "locations": [
+      "Sunnyvale, CA, United States"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145161098",
+    "postedAt": "2026-08-24T03:34:25.579Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145105711",
+    "title": "自动化产线运营设备及工艺工程师_ ME",
+    "department": "Manufacturing",
     "locations": [
       "Suzhou, Jiangsu, China"
     ],
     "isRemote": false,
     "employmentType": "Full-time",
-    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000144881999",
-    "postedAt": "2026-08-22T11:24:05.402Z",
-    "scrapedAt": "2026-08-23T06:27:10.862Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145105711",
+    "postedAt": "2026-08-24T02:21:20.439Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Bosch Group",
     "platform": "smartrecruiters",
-    "jobId": "744000144881775",
-    "title": "Global Category Buyer(Assembling)_ ME",
-    "department": "Purchasing",
+    "jobId": "744000145092752",
+    "title": "自动化产线运营设备及工艺工程师_ ME",
+    "department": "Manufacturing",
     "locations": [
-      "Shanghai, Shanghai, China"
+      "Suzhou, Jiangsu, China"
     ],
     "isRemote": false,
     "employmentType": "Full-time",
-    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000144881775",
-    "postedAt": "2026-08-22T11:16:51.609Z",
-    "scrapedAt": "2026-08-23T06:27:10.862Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145092752",
+    "postedAt": "2026-08-24T02:04:24.580Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145049109",
+    "title": "[PJ-SDS] Sales Manager – Industrial Software & IT/Engineering Services",
+    "department": "Information Technology",
+    "locations": [
+      "Ho Chi Minh city, , Vietnam"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145049109",
+    "postedAt": "2026-08-24T01:01:42.856Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145047299",
+    "title": "[DCJP] 産業機械向け油圧製品・システム営業",
+    "department": "Sales",
+    "locations": [
+      "Yokohama, Kanagawa, Japan"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145047299",
+    "postedAt": "2026-08-24T00:22:51.695Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145040938",
+    "title": "SAP Test Manager",
+    "department": "Information Technology",
+    "locations": [
+      "pune, , India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145040938",
+    "postedAt": "2026-08-23T18:08:45.402Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145035068",
+    "title": "Product Owner - DevOps Practice (Ansible)",
+    "department": "Engineering",
+    "locations": [
+      "bangalore, , India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145035068",
+    "postedAt": "2026-08-23T13:24:38.164Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145028858",
+    "title": "Java Backend Developer",
+    "department": "Information Technology",
+    "locations": [
+      "bangalore, , India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145028858",
+    "postedAt": "2026-08-23T06:58:17.770Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Bosch Group",
+    "platform": "smartrecruiters",
+    "jobId": "744000145028788",
+    "title": "Senior Product Owner  - BESS and Data Platform",
+    "department": "Engineering",
+    "locations": [
+      "bangalore, , India"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000145028788",
+    "postedAt": "2026-08-23T06:55:48.962Z",
+    "scrapedAt": "2026-08-24T06:40:05.117Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145193849",
+    "title": "Staff Software Engineer",
+    "department": "Information Technology",
+    "locations": [
+      "Maadi, , Egypt"
+    ],
+    "isRemote": false,
+    "employmentType": "Contract",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145193849",
+    "postedAt": "2026-08-24T06:31:32.838Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145139880",
+    "title": "Head of Commercial, pandamart",
+    "department": "Sales",
+    "locations": [
+      "Hong Kong, , Hong Kong"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145139880",
+    "postedAt": "2026-08-24T03:29:40.570Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145127228",
+    "title": "Talent Development Manager",
+    "department": "Human Resources",
+    "locations": [
+      "Singapore, , Singapore"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145127228",
+    "postedAt": "2026-08-24T02:48:18.239Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145123109",
+    "title": "Software Engineer Trainee (iOS)",
+    "department": "General Business",
+    "locations": [
+      "Singapore, , Singapore"
+    ],
+    "isRemote": false,
+    "employmentType": "Contract",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145123109",
+    "postedAt": "2026-08-24T02:42:54.035Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145043659",
+    "title": "Workplace Manager Italy",
+    "department": "Management",
+    "locations": [
+      "Milano, , Italy"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145043659",
+    "postedAt": "2026-08-23T21:55:06.313Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145043619",
+    "title": "Office & Facilities Manager Italy",
+    "department": "Management",
+    "locations": [
+      "Milano, , Italy"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145043619",
+    "postedAt": "2026-08-23T21:53:04.941Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145033569",
+    "title": "Specialist, Field Sales",
+    "department": "Sales",
+    "locations": [
+      "Dhaka, , Bangladesh"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145033569",
+    "postedAt": "2026-08-23T12:07:03.113Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145033529",
+    "title": "Specialist, Field Sales",
+    "department": "Sales",
+    "locations": [
+      "Dhaka, , Bangladesh"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145033529",
+    "postedAt": "2026-08-23T12:04:03.710Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145033409",
+    "title": "Specialist, Field Sales",
+    "department": "Sales",
+    "locations": [
+      "Dhaka, , Bangladesh"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145033409",
+    "postedAt": "2026-08-23T11:58:23.710Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Delivery Hero",
+    "platform": "smartrecruiters",
+    "jobId": "744000145032509",
+    "title": "Coordinator Content Optimization",
+    "department": "General Business",
+    "locations": [
+      "Cairo, Cairo Governorate, Egypt"
+    ],
+    "isRemote": false,
+    "employmentType": "Full-time",
+    "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000145032509",
+    "postedAt": "2026-08-23T10:49:29.664Z",
+    "scrapedAt": "2026-08-24T06:40:05.243Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Intel",
+    "platform": "workday",
+    "jobId": "/job/Israel-Kiryat-Gat/Tool-Install-Design-Manager_JR0285959",
+    "title": "Tool Install Design Manager",
+    "department": null,
+    "locations": [
+      "Israel, Kiryat-Gat"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Tool-Install-Design-Manager_JR0285959",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:27.131Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Intel",
+    "platform": "workday",
+    "jobId": "/job/US-California-Santa-Clara/Director--Silicon-Design-Engineering_JR0284973",
+    "title": "Director, Silicon Design Engineering",
+    "department": null,
+    "locations": [
+      "3 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Director--Silicon-Design-Engineering_JR0284973",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:27.132Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Salesforce",
     "platform": "workday",
-    "jobId": "/job/Japan---Fukuoka/Account-Executive--GRB-Sales--Fukuoka-_JR329547",
-    "title": "Account Executive, GRB Sales (Fukuoka)",
+    "jobId": "/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327",
+    "title": "MTS/SMTS/LMTS - Software Engineer",
     "department": null,
     "locations": [
-      "Japan - Fukuoka"
+      "India - Hyderabad"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Fukuoka/Account-Executive--GRB-Sales--Fukuoka-_JR329547",
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327",
     "postedAt": null,
-    "scrapedAt": "2026-08-23T06:27:29.193Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Salesforce",
     "platform": "workday",
-    "jobId": "/job/United-Kingdom---London/Client-Solution-Consultant--Data-Foundation-and-MuleSoft_JR341592",
-    "title": "Client Solution Consultant, Data Foundation",
+    "jobId": "/job/India---Bangalore/Space-Planning-Associate-Manager_JR341833",
+    "title": "Manager - Space Planning",
     "department": null,
     "locations": [
-      "United Kingdom - London"
+      "2 Locations"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Client-Solution-Consultant--Data-Foundation-and-MuleSoft_JR341592",
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Space-Planning-Associate-Manager_JR341833",
     "postedAt": null,
-    "scrapedAt": "2026-08-23T06:27:29.194Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   },
   {
     "company": "Salesforce",
     "platform": "workday",
-    "jobId": "/job/Argentina---Buenos-Aires/ECS-Account-Executive_JR355313",
-    "title": "ECS Account Executive",
+    "jobId": "/job/Singapore---Singapore/Forward-Deployment-Engineer_JR357007",
+    "title": "Forward Deployment Engineer",
     "department": null,
     "locations": [
-      "Argentina - Buenos Aires"
+      "Singapore - Singapore"
     ],
     "isRemote": null,
     "employmentType": null,
-    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/ECS-Account-Executive_JR355313",
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Forward-Deployment-Engineer_JR357007",
     "postedAt": null,
-    "scrapedAt": "2026-08-23T06:27:29.194Z",
-    "firstSeenAt": "2026-08-23T06:28:15.468Z"
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Salesforce",
+    "platform": "workday",
+    "jobId": "/job/India---Hyderabad/Member-of-Technical-Staff--Software-Engineering_JR356808",
+    "title": "Member of Technical Staff, Software Engineering",
+    "department": null,
+    "locations": [
+      "India - Hyderabad"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Member-of-Technical-Staff--Software-Engineering_JR356808",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Salesforce",
+    "platform": "workday",
+    "jobId": "/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
+    "title": "Software Engineering LMTS - Backend Distributed Systems",
+    "department": null,
+    "locations": [
+      "2 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-LMTS_JR338174",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Salesforce",
+    "platform": "workday",
+    "jobId": "/job/Philippines---Metro-Manila/Account-Executive---ESMB--Philippines-market_JR355878",
+    "title": "Account Executive - ESMB, Philippines market",
+    "department": null,
+    "locations": [
+      "Philippines - Metro Manila"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Philippines---Metro-Manila/Account-Executive---ESMB--Philippines-market_JR355878",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Salesforce",
+    "platform": "workday",
+    "jobId": "/job/Australia---Sydney/Cloud-Account-Executive-1_JR356652",
+    "title": "Tableau SMB Account Execuitve",
+    "department": null,
+    "locations": [
+      "Australia - Sydney"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Cloud-Account-Executive-1_JR356652",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Salesforce",
+    "platform": "workday",
+    "jobId": "/job/Australia---Sydney/Platform-Account-Executive--SMB-_JR356994",
+    "title": "Platform Account Executive (SMB)",
+    "department": null,
+    "locations": [
+      "Australia - Sydney"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Platform-Account-Executive--SMB-_JR356994",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Salesforce",
+    "platform": "workday",
+    "jobId": "/job/Netherlands---Amsterdam/Enterprise-Account-Executive---Retail---CPG---Netherlands_JR355337",
+    "title": "Enterprise Account Executive - Retail & CPG - Netherlands",
+    "department": null,
+    "locations": [
+      "Netherlands - Amsterdam"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/Enterprise-Account-Executive---Retail---CPG---Netherlands_JR355337",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Salesforce",
+    "platform": "workday",
+    "jobId": "/job/Israel---Tel-Aviv/Lead-AI-Automation-Developer_JR353563",
+    "title": "Lead Offsec AI-Automation Developer",
+    "department": null,
+    "locations": [
+      "Israel - Tel Aviv"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Lead-AI-Automation-Developer_JR353563",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:24.602Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Adobe",
+    "platform": "workday",
+    "jobId": "/job/Bangalore/Machine-Learning-Engineer-4_R170857",
+    "title": "Machine Learning Engineer 4",
+    "department": null,
+    "locations": [
+      "Bangalore"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R170857",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:26.213Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Adobe",
+    "platform": "workday",
+    "jobId": "/job/Noida/Technical-Support-Engineer_R171388",
+    "title": "Technical Support Engineer",
+    "department": null,
+    "locations": [
+      "Noida"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Technical-Support-Engineer_R171388",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:26.213Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Adobe",
+    "platform": "workday",
+    "jobId": "/job/San-Jose/Senior-Engineer--AI-Edge_R171120-1",
+    "title": "Senior Engineer, AI Edge",
+    "department": null,
+    "locations": [
+      "San Jose"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Engineer--AI-Edge_R171120-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:26.213Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Adobe",
+    "platform": "workday",
+    "jobId": "/job/San-Jose/Platform-Engineer-4_R170850-1",
+    "title": "Platform Engineer 4",
+    "department": null,
+    "locations": [
+      "San Jose"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Platform-Engineer-4_R170850-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:26.213Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Adobe",
+    "platform": "workday",
+    "department": null,
+    "locations": [],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experiencedundefined",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:26.213Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "CVS Health",
+    "platform": "workday",
+    "jobId": "/job/NE---Omaha/Pharmacy-Intern_R1019107",
+    "title": "Pharmacy Intern",
+    "department": null,
+    "locations": [
+      "NE - Omaha"
+    ],
+    "isRemote": null,
+    "employmentType": "Part time",
+    "applyUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NE---Omaha/Pharmacy-Intern_R1019107",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:22.950Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "CVS Health",
+    "platform": "workday",
+    "jobId": "/job/VA---Charlottesville/Store-Associate_R1019529",
+    "title": "Store Associate",
+    "department": null,
+    "locations": [
+      "VA - Charlottesville"
+    ],
+    "isRemote": null,
+    "employmentType": "Part time",
+    "applyUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Charlottesville/Store-Associate_R1019529",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:22.950Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "CVS Health",
+    "platform": "workday",
+    "jobId": "/job/VA---Stephens-City/cashier_R1020008",
+    "title": "cashier",
+    "department": null,
+    "locations": [
+      "VA - Stephens City"
+    ],
+    "isRemote": null,
+    "employmentType": "Part time",
+    "applyUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Stephens-City/cashier_R1020008",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:22.950Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "CVS Health",
+    "platform": "workday",
+    "jobId": "/job/PA---Pittsburgh/Lead-Pharmacy-Technician-Front-End_R0938554-1",
+    "title": "Lead Pharmacy Technician Front End",
+    "department": null,
+    "locations": [
+      "PA - Pittsburgh"
+    ],
+    "isRemote": null,
+    "employmentType": "Full time",
+    "applyUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Pittsburgh/Lead-Pharmacy-Technician-Front-End_R0938554-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:22.950Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "CVS Health",
+    "platform": "workday",
+    "jobId": "/job/CA---Canoga-Park/Pharmacy-Automation-Mechanic--Omnicare_R0919085",
+    "title": "Pharmacy Automation Mechanic, Omnicare",
+    "department": null,
+    "locations": [
+      "CA - Canoga Park"
+    ],
+    "isRemote": null,
+    "employmentType": "Full time",
+    "applyUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Canoga-Park/Pharmacy-Automation-Mechanic--Omnicare_R0919085",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:22.950Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "CVS Health",
+    "platform": "workday",
+    "jobId": "/job/PA---Philadelphia/Medical-Social-Worker---Bilingual-Spanish-Preferred_R1017828-1",
+    "title": "Medical Social Worker - Bilingual Spanish Preferred",
+    "department": null,
+    "locations": [
+      "PA - Philadelphia"
+    ],
+    "isRemote": null,
+    "employmentType": "Full time",
+    "applyUrl": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Philadelphia/Medical-Social-Worker---Bilingual-Spanish-Preferred_R1017828-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:22.950Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Vanguard",
+    "platform": "workday",
+    "jobId": "/job/Hyderabad-India/Data-Analyst--Specialist_179098",
+    "title": "Data Analyst, Specialist (Marketing Analytics)",
+    "department": null,
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://vanguard.wd5.myworkdayjobs.com/Vanguard_External/job/Hyderabad-India/Data-Analyst--Specialist_179098",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:29.683Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Vanguard",
+    "platform": "workday",
+    "jobId": "/job/Hyderabad-India/Application-Engineer---III_177965",
+    "title": "Senior Application Engineer (Java, Angular, AWS)",
+    "department": null,
+    "locations": [
+      "Hyderabad, India"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://vanguard.wd5.myworkdayjobs.com/Vanguard_External/job/Hyderabad-India/Application-Engineer---III_177965",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:29.683Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Autodesk",
+    "platform": "workday",
+    "jobId": "/job/Toronto-ON-CAN/Quantitative-Research-Lead--Construction---Platform_26WD98230-1",
+    "title": "Quantitative Research Lead, Construction & Platform",
+    "department": null,
+    "locations": [
+      "Toronto, ON, CAN"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Quantitative-Research-Lead--Construction---Platform_26WD98230-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:40.794Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/420-Broadway-Santa-MonicaCA-90401-2314/Target-Security-Specialist_R0000450575-1",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "420 Broadway, Santa Monica,CA 90401-2314"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/420-Broadway-Santa-MonicaCA-90401-2314/Target-Security-Specialist_R0000450575-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/4001-N-Midland-Dr-MidlandTX-79707-3534/Target-Security-Specialist_R0000450605-1",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "4001 N Midland Dr, Midland,TX 79707-3534"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4001-N-Midland-Dr-MidlandTX-79707-3534/Target-Security-Specialist_R0000450605-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/8801-NE-Hazel-Dell-Ave-VancouverWA-98665-8145/Target-Security-Specialist_R0000450645",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "8801 NE Hazel Dell Ave, Vancouver,WA 98665-8145"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/8801-NE-Hazel-Dell-Ave-VancouverWA-98665-8145/Target-Security-Specialist_R0000450645",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/3245-Sports-Arena-Blvd-San-DiegoCA-92110-4529/Target-Security-Specialist_R0000450415",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "3245 Sports Arena Blvd, San Diego,CA 92110-4529"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3245-Sports-Arena-Blvd-San-DiegoCA-92110-4529/Target-Security-Specialist_R0000450415",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/3333-Arlington-Ave-RiversideCA-92506-3252/Starbucks-Barista_R0000450475",
+    "title": "Starbucks Barista",
+    "department": null,
+    "locations": [
+      "3333 Arlington Ave, Riverside,CA 92506-3252"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3333-Arlington-Ave-RiversideCA-92506-3252/Starbucks-Barista_R0000450475",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/8601-Research-Blvd-AustinTX-78758-7121/Target-Security-Specialist_R0000449845",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "8601 Research Blvd, Austin,TX 78758-7121"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/8601-Research-Blvd-AustinTX-78758-7121/Target-Security-Specialist_R0000449845",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/2727-W-Agua-Fria-Fwy-PhoenixAZ-85027-3929/Target-Security-Specialist_R0000449425",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "2727 W Agua Fria Fwy, Phoenix,AZ 85027-3929"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2727-W-Agua-Fria-Fwy-PhoenixAZ-85027-3929/Target-Security-Specialist_R0000449425",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/2295-N-Imperial-Ave-El-CentroCA-92243-1335/Starbucks-Barista_R0000450675",
+    "title": "Starbucks Barista",
+    "department": null,
+    "locations": [
+      "2295 N Imperial Ave, El Centro,CA 92243-1335"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2295-N-Imperial-Ave-El-CentroCA-92243-1335/Starbucks-Barista_R0000450675",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1628-Highwoods-Blvd-GreensboroNC-27410-2048/Human-Resources-Expert_R0000450579",
+    "title": "Human Resources Expert",
+    "department": null,
+    "locations": [
+      "1628 Highwoods Blvd, Greensboro,NC 27410-2048"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1628-Highwoods-Blvd-GreensboroNC-27410-2048/Human-Resources-Expert_R0000450579",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1-Sangertown-Sq-Ste-3-New-HartfordNY-13413-1595/Target-Security-Specialist_R0000448669",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "1 Sangertown Sq Ste 3, New Hartford,NY 13413-1595"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1-Sangertown-Sq-Ste-3-New-HartfordNY-13413-1595/Target-Security-Specialist_R0000448669",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1-N-Galleria-DrSte-140-MiddletownNY-10941-3029/Target-Security-Specialist_R0000448859",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "1 N Galleria Dr,Ste 140 Middletown,NY 10941-3029"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1-N-Galleria-DrSte-140-MiddletownNY-10941-3029/Target-Security-Specialist_R0000448859",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/6150-Glenway-Ave-Cincinnati-OH-45211-6319/Target-Security-Specialist_R0000450649",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "6150 Glenway Ave, Cincinnati, OH 45211-6319"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/6150-Glenway-Ave-Cincinnati-OH-45211-6319/Target-Security-Specialist_R0000450649",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/34800-United-Ave-PuebloCO-81001-4882/Full-Time-Hourly-Warehouse-Operations-Openings-for-Evening-Overnight-Shifts--T0554-_R0000447660-1",
+    "title": "Full Time Hourly Warehouse Operations Openings for Evening/Overnight Shifts (T0554)",
+    "department": null,
+    "locations": [
+      "34800 United Ave, Pueblo,CO 81001-4882"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/34800-United-Ave-PuebloCO-81001-4882/Full-Time-Hourly-Warehouse-Operations-Openings-for-Evening-Overnight-Shifts--T0554-_R0000447660-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/15450-Washington-St-ThorntonCO-80023-9719/Warehouse-Worker---Food-Distribution-Center--T3727-_R0000447577",
+    "title": "Warehouse Worker - Food Distribution Center (T3727)",
+    "department": null,
+    "locations": [
+      "15450 Washington St, Thornton,CO 80023-9719"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/15450-Washington-St-ThorntonCO-80023-9719/Warehouse-Worker---Food-Distribution-Center--T3727-_R0000447577",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1200-Edwards-Ferry-Rd-LeesburgVA-20176-3318/Human-Resources-Expert_R0000450614-1",
+    "title": "Human Resources Expert",
+    "department": null,
+    "locations": [
+      "1200 Edwards Ferry Rd, Leesburg,VA 20176-3318"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1200-Edwards-Ferry-Rd-LeesburgVA-20176-3318/Human-Resources-Expert_R0000450614-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/420-Broadway-Santa-MonicaCA-90401-2314/Target-Security-Specialist_R0000450534",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "420 Broadway, Santa Monica,CA 90401-2314"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/420-Broadway-Santa-MonicaCA-90401-2314/Target-Security-Specialist_R0000450534",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Target-Security-Specialist_R0000450504",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "1341 BOYLSTON ST, Boston,MA 02215-3936"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Target-Security-Specialist_R0000450504",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/11990-LOS-OSOS-VALLEY-RD-San-Luis-ObispoCA-93405-6861/Starbucks-Barista_R0000450674",
+    "title": "Starbucks Barista",
+    "department": null,
+    "locations": [
+      "11990 LOS OSOS VALLEY RD, San Luis Obispo,CA 93405-6861"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/11990-LOS-OSOS-VALLEY-RD-San-Luis-ObispoCA-93405-6861/Starbucks-Barista_R0000450674",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/8801-Queens-Blvd-ElmhurstNY-11373-4449/Target-Security-Specialist_R0000450224",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "8801 Queens Blvd, Elmhurst,NY 11373-4449"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/8801-Queens-Blvd-ElmhurstNY-11373-4449/Target-Security-Specialist_R0000450224",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/9725-Laurel-Canyon-Blvd-PacoimaCA-91331-4100/Target-Security-Specialist_R0000450624-1",
+    "title": "Target Security Specialist",
+    "department": null,
+    "locations": [
+      "9725 Laurel Canyon Blvd, Pacoima,CA 91331-4100"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/9725-Laurel-Canyon-Blvd-PacoimaCA-91331-4100/Target-Security-Specialist_R0000450624-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+    "title": "Principal Product Manager",
+    "department": null,
+    "locations": [
+      "Tower 02, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Principal-Product-Manager_R0000449195",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/4323-San-Felipe-St-HoustonTX-77027-3406/Food-Service-Team-Leader--Houston-Galleria-TX_R0000450638",
+    "title": "Food Service Team Leader, Houston Galleria TX",
+    "department": null,
+    "locations": [
+      "4323 San Felipe St, Houston,TX 77027-3406"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4323-San-Felipe-St-HoustonTX-77027-3406/Food-Service-Team-Leader--Houston-Galleria-TX_R0000450638",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/3501-S-Pulaski-Rd-ChicagoIL-60623-4926/Operations-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center--Chicago--Pulaski--IL_R0000450144",
+    "title": "Operations Manager Intern (Starting Summer 2027) Flow Distribution Center, Chicago- Pulaski, IL",
+    "department": null,
+    "locations": [
+      "3501 S Pulaski Rd, Chicago,IL 60623-4926"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3501-S-Pulaski-Rd-ChicagoIL-60623-4926/Operations-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center--Chicago--Pulaski--IL_R0000450144",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/3300-Channahon-Rd-JolietIL-60436-8579/Operations-Manager-Intern--Starting-Summer-2027--IR3-Distribution-Center--Joliet--IL_R0000450156",
+    "title": "Operations Manager Intern (Starting Summer 2027) IR3 Distribution Center, Joliet, IL",
+    "department": null,
+    "locations": [
+      "3300 Channahon Rd, Joliet,IL 60436-8579"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3300-Channahon-Rd-JolietIL-60436-8579/Operations-Manager-Intern--Starting-Summer-2027--IR3-Distribution-Center--Joliet--IL_R0000450156",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1111-Macom-Dr-DekalbIL-60115-8709/Operations-Manager-Intern--Starting-Summer-2027--Upstream-Distribution-Center--Dekalb--IL_R0000450163",
+    "title": "Operations Manager Intern (Starting Summer 2027) Upstream Distribution Center, Dekalb, IL",
+    "department": null,
+    "locations": [
+      "1111 Macom Dr, Dekalb,IL 60115-8709"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1111-Macom-Dr-DekalbIL-60115-8709/Operations-Manager-Intern--Starting-Summer-2027--Upstream-Distribution-Center--Dekalb--IL_R0000450163",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/6885-Siegen-Ln-Baton-RougeLA-70809-4528/Store-Executive-Intern--Store-Leadership-Intern----Louisiana---Ark-La-Tex--Starting-Summer-2027-_R0000446941",
+    "title": "Store Executive Intern (Store Leadership Intern) - Louisiana & Ark-La-Tex (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "10 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/6885-Siegen-Ln-Baton-RougeLA-70809-4528/Store-Executive-Intern--Store-Leadership-Intern----Louisiana---Ark-La-Tex--Starting-Summer-2027-_R0000446941",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/601-Colonial-Rd-MemphisTN-38117-5132/Store-Executive-Intern--Store-Leadership-Intern----Memphis--TN--Starting-Summer-2027-_R0000446938",
+    "title": "Store Executive Intern (Store Leadership Intern) - Memphis, TN (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "9 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/601-Colonial-Rd-MemphisTN-38117-5132/Store-Executive-Intern--Store-Leadership-Intern----Memphis--TN--Starting-Summer-2027-_R0000446938",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/6275-University-Dr-NW-HuntsvilleAL-35806-1776/Store-Executive-Intern--Store-Leadership-Intern----North---Central-Alabama--Starting-Summer-2027-_R0000446940-1",
+    "title": "Store Executive Intern (Store Leadership Intern) - North & Central Alabama (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "13 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/6275-University-Dr-NW-HuntsvilleAL-35806-1776/Store-Executive-Intern--Store-Leadership-Intern----North---Central-Alabama--Starting-Summer-2027-_R0000446940-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/4711-Bayou-Blvd-PensacolaFL-32503-2607/Store-Executive-Intern--Store-Leadership-Intern----South-Alabama---Florida-Panhandle--Starting-Summer-2027-_R0000446942",
+    "title": "Store Executive Intern (Store Leadership Intern) - South Alabama & Florida Panhandle (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "12 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4711-Bayou-Blvd-PensacolaFL-32503-2607/Store-Executive-Intern--Store-Leadership-Intern----South-Alabama---Florida-Panhandle--Starting-Summer-2027-_R0000446942",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/22832-US-Highway-281-N-San-AntonioTX-78258-7430/Style-Team-Leader--Stone-Oak-TX_R0000450628",
+    "title": "Style Team Leader, Stone Oak TX",
+    "department": null,
+    "locations": [
+      "22832 US Highway 281 N, San Antonio,TX 78258-7430"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/22832-US-Highway-281-N-San-AntonioTX-78258-7430/Style-Team-Leader--Stone-Oak-TX_R0000450628",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/16070-Leeland-Rd-Upper-MarlboroMD-20774-8528/A1-Problem-Solver-Team-Member_R0000449764",
+    "title": "A1 Problem Solver Team Member",
+    "department": null,
+    "locations": [
+      "16070 Leeland Rd, Upper Marlboro,MD 20774-8528"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/16070-Leeland-Rd-Upper-MarlboroMD-20774-8528/A1-Problem-Solver-Team-Member_R0000449764",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1000-Site-Pkwy-HamptonGA-30228/Operations-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center--Hampton--GA_R0000450153",
+    "title": "Operations Manager Intern (Starting Summer 2027) Flow Distribution Center, Hampton, GA",
+    "department": null,
+    "locations": [
+      "1000 Site Pkwy, Hampton,GA 30228"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Site-Pkwy-HamptonGA-30228/Operations-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center--Hampton--GA_R0000450153",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/300-Creekview-Ave-Bldg-H-Logan-TownshipNJ-08085-2597/Operations-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center--Logan-Township--NJ_R0000450143",
+    "title": "Operations Manager Intern (Starting Summer 2027) Flow Distribution Center, Logan Township, NJ",
+    "department": null,
+    "locations": [
+      "300 Creekview Ave, Bldg H, Logan Township,NJ 08085-2597"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/300-Creekview-Ave-Bldg-H-Logan-TownshipNJ-08085-2597/Operations-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center--Logan-Township--NJ_R0000450143",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/3049-North-US-441-Lake-CityFL-32055-4939/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--Lake-City--FL_R0000450169-1",
+    "title": "Operations Manager Intern (Starting Summer 2027) Food Distribution Center, Lake City, FL",
+    "department": null,
+    "locations": [
+      "3049 North US 441, Lake City,FL 32055-4939"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3049-North-US-441-Lake-CityFL-32055-4939/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--Lake-City--FL_R0000450169-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1290-Prince-Georges-Blvd-Upper-MarlboroMD-20774/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--Upper-Marlboro--MD_R0000450168",
+    "title": "Operations Manager Intern (Starting Summer 2027) Food Distribution Center, Upper Marlboro, MD",
+    "department": null,
+    "locations": [
+      "1290 Prince Georges Blvd, Upper Marlboro,MD 20774"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1290-Prince-Georges-Blvd-Upper-MarlboroMD-20774/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--Upper-Marlboro--MD_R0000450168",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/42-Commerce-Pkwy-West-JeffersonOH-43162-9419/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--West-Jefferson--OH_R0000450167",
+    "title": "Operations Manager Intern (Starting Summer 2027) Food Distribution Center, West Jefferson, OH",
+    "department": null,
+    "locations": [
+      "42 Commerce Pkwy, West Jefferson,OH 43162-9419"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/42-Commerce-Pkwy-West-JeffersonOH-43162-9419/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--West-Jefferson--OH_R0000450167",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/500-Groton-Rd-WindsorCT-06095-1580/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--Windor--CT_R0000450165-1",
+    "title": "Operations Manager Intern (Starting Summer 2027) Food Distribution Center, Windor, CT",
+    "department": null,
+    "locations": [
+      "500 Groton Rd, Windsor,CT 06095-1580"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/500-Groton-Rd-WindsorCT-06095-1580/Operations-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center--Windor--CT_R0000450165-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/16070-Leeland-Rd-Upper-MarlboroMD-20774-8528/Operations-Manager-Intern--Starting-Summer-2027--IR3-Distribution-Center--Upper-Marlboro--MD_R0000450155",
+    "title": "Operations Manager Intern (Starting Summer 2027) IR3 Distribution Center, Upper Marlboro, MD",
+    "department": null,
+    "locations": [
+      "16070 Leeland Rd, Upper Marlboro,MD 20774-8528"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/16070-Leeland-Rd-Upper-MarlboroMD-20774-8528/Operations-Manager-Intern--Starting-Summer-2027--IR3-Distribution-Center--Upper-Marlboro--MD_R0000450155",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/900-River-Rd-King-of-PrussiaPA-19406/Operations-Manager-Intern--Starting-Summer-2027--Last-Mile-Distribution-Center--Philadelphia--PA_R0000450170",
+    "title": "Operations Manager Intern (Starting Summer 2027) Last Mile Distribution Center, Philadelphia, PA",
+    "department": null,
+    "locations": [
+      "900 River Rd, King of Prussia,PA 19406"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/900-River-Rd-King-of-PrussiaPA-19406/Operations-Manager-Intern--Starting-Summer-2027--Last-Mile-Distribution-Center--Philadelphia--PA_R0000450170",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1800-State-Hwy-5S-AmsterdamNY-12010-8174/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Amsterdam--NY_R0000450138",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Amsterdam, NY",
+    "department": null,
+    "locations": [
+      "1800 State Hwy 5S, Amsterdam,NY 12010-8174"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1800-State-Hwy-5S-AmsterdamNY-12010-8174/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Amsterdam--NY_R0000450138",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/3001-Archer-Dr-ChambersburgPA-17202-7736/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Chambersburg--PA_R0000450136",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Chambersburg, PA",
+    "department": null,
+    "locations": [
+      "3001 Archer Dr, Chambersburg,PA 17202-7736"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3001-Archer-Dr-ChambersburgPA-17202-7736/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Chambersburg--PA_R0000450136",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/22-Corporate-Drive-LugoffSC-29078-8767/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Lugoff--SC_R0000450137",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Lugoff, SC",
+    "department": null,
+    "locations": [
+      "22 Corporate Drive, Lugoff,SC 29078-8767"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/22-Corporate-Drive-LugoffSC-29078-8767/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Lugoff--SC_R0000450137",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1247-Sunbury-Rd-MidwayGA-31320-5409/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Midway--GA_R0000450141",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Midway, GA",
+    "department": null,
+    "locations": [
+      "1247 Sunbury Rd, Midway,GA 31320-5409"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1247-Sunbury-Rd-MidwayGA-31320-5409/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Midway--GA_R0000450141",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1880-Stover-Ct-NewtonNC-28658-8983/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Newton--NC_R0000450142",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Newton, NC",
+    "department": null,
+    "locations": [
+      "1880 Stover Ct, Newton,NC 28658-8983"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1880-Stover-Ct-NewtonNC-28658-8983/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Newton--NC_R0000450142",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/345-Mount-Vernon-Rd-Stuarts-DraftVA-24477-9345/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Stuarts-Draft--VA_R0000450134",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Stuarts Draft, VA",
+    "department": null,
+    "locations": [
+      "345 Mount Vernon Rd, Stuarts Draft,VA 24477-9345"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/345-Mount-Vernon-Rd-Stuarts-DraftVA-24477-9345/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Stuarts-Draft--VA_R0000450134",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/4502-Union-Rd-TiftonGA-31794-8543/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Tifton--GA_R0000450133",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Tifton, GA",
+    "department": null,
+    "locations": [
+      "4502 Union Rd, Tifton,GA 31794-8543"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4502-Union-Rd-TiftonGA-31794-8543/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Tifton--GA_R0000450133",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1-Walker-Way-West-JeffersonOH-43162-9406/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--West-Jefferson--OH_R0000450139",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, West Jefferson, OH",
+    "department": null,
+    "locations": [
+      "1 Walker Way, West Jefferson,OH 43162-9406"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--West-Jefferson--OH_R0000450139",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/129-North-Rd-WiltonNY-12831-1308/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Wilton--NY_R0000450135-1",
+    "title": "Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, Wilton, NY",
+    "department": null,
+    "locations": [
+      "129 North Rd, Wilton,NY 12831-1308"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/129-North-Rd-WiltonNY-12831-1308/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--Wilton--NY_R0000450135-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/211-Little-Hearst-Pkwy-Port-WentworthGA-31407-9257/Operations-Manager-Intern--Starting-Summer-2027--Upstream-Distribution-Center--Savannah--GA_R0000450158",
+    "title": "Operations Manager Intern (Starting Summer 2027) Upstream Distribution Center, Savannah, GA",
+    "department": null,
+    "locations": [
+      "211 Little Hearst Pkwy, Port Wentworth,GA 31407-9257"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/211-Little-Hearst-Pkwy-Port-WentworthGA-31407-9257/Operations-Manager-Intern--Starting-Summer-2027--Upstream-Distribution-Center--Savannah--GA_R0000450158",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/300-Manning-Bridge-Rd-SuffolkVA-23434-8592/Operations-Manager-Intern--Starting-Summer-2027--Upstream-Distribution-Center--Suffolk--VA_R0000450161",
+    "title": "Operations Manager Intern (Starting Summer 2027) Upstream Distribution Center, Suffolk, VA",
+    "department": null,
+    "locations": [
+      "300 Manning Bridge Rd, Suffolk,VA 23434-8592"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/300-Manning-Bridge-Rd-SuffolkVA-23434-8592/Operations-Manager-Intern--Starting-Summer-2027--Upstream-Distribution-Center--Suffolk--VA_R0000450161",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1440-Central-Ave-ColonieNY-12205-5118/Store-Executive-Intern--Store-Leadership-Intern----Albany--NY--Starting-Summer-2027-_R0000446903",
+    "title": "Store Executive Intern (Store Leadership Intern) - Albany, NY (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "9 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1440-Central-Ave-ColonieNY-12205-5118/Store-Executive-Intern--Store-Leadership-Intern----Albany--NY--Starting-Summer-2027-_R0000446903",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Store-Executive-Intern--Store-Leadership-Intern----Boston--MA--Starting-Summer-2027-_R0000446890",
+    "title": "Store Executive Intern (Store Leadership Intern) - Boston, MA (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "25 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Store-Executive-Intern--Store-Leadership-Intern----Boston--MA--Starting-Summer-2027-_R0000446890",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1575-Niagara-Falls-Blvd-AmherstNY-14228-2704/Store-Executive-Intern--Store-Leadership-Intern----Buffalo-Rochester-Syracuse--NY--Starting-Summer-2027-_R0000446892",
+    "title": "Store Executive Intern (Store Leadership Intern) - Buffalo/Rochester/Syracuse, NY (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "25 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1575-Niagara-Falls-Blvd-AmherstNY-14228-2704/Store-Executive-Intern--Store-Leadership-Intern----Buffalo-Rochester-Syracuse--NY--Starting-Summer-2027-_R0000446892",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/423-Donald-Lynch-Blvd-MarlboroughMA-01752-4709/Store-Executive-Intern--Store-Leadership-Intern----Connecticut---Western-Massachusetts--Starting-Summer-2027-_R0000446910",
+    "title": "Store Executive Intern (Store Leadership Intern) - Connecticut & Western Massachusetts (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "27 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/423-Donald-Lynch-Blvd-MarlboroughMA-01752-4709/Store-Executive-Intern--Store-Leadership-Intern----Connecticut---Western-Massachusetts--Starting-Summer-2027-_R0000446910",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/153-Sierra-Dr-AltoonaPA-16601-9341/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pittsburgh---Central-Pennsylvania--Starting-Summer-2027-_R0000446886",
+    "title": "Store Executive Intern (Store Leadership Intern) - Greater Pittsburgh & Central Pennsylvania (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "25 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/153-Sierra-Dr-AltoonaPA-16601-9341/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pittsburgh---Central-Pennsylvania--Starting-Summer-2027-_R0000446886",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/4120-Palisades-Center-Dr-West-NyackNY-10994-6801/Store-Executive-Intern--Store-Leadership-Intern----Hudson-Valley---Lower-New-York--Starting-Summer-2027-_R0000446905-1",
+    "title": "Store Executive Intern (Store Leadership Intern) - Hudson Valley & Lower New York (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "14 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4120-Palisades-Center-Dr-West-NyackNY-10994-6801/Store-Executive-Intern--Store-Leadership-Intern----Hudson-Valley---Lower-New-York--Starting-Summer-2027-_R0000446905-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1205-S-Washington-St-North-AttleboroMA-02760-6251/Store-Executive-Intern--Store-Leadership-Intern----MetroWest-Boston---Southern-New-Hampshire--Starting-Summer-2027-_R0000446900",
+    "title": "Store Executive Intern (Store Leadership Intern) - MetroWest Boston & Southern New Hampshire (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "13 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1205-S-Washington-St-North-AttleboroMA-02760-6251/Store-Executive-Intern--Store-Leadership-Intern----MetroWest-Boston---Southern-New-Hampshire--Starting-Summer-2027-_R0000446900",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/80-Damante-Dr-ConcordNH-03301-5759/Store-Executive-Intern--Store-Leadership-Intern----Northern-New-England--Starting-Summer-2027-_R0000446897-1",
+    "title": "Store Executive Intern (Store Leadership Intern) - Northern New England (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "13 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/80-Damante-Dr-ConcordNH-03301-5759/Store-Executive-Intern--Store-Leadership-Intern----Northern-New-England--Starting-Summer-2027-_R0000446897-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1-Mifflin-St-PhiladelphiaPA-19148-2017/Store-Executive-Intern--Store-Leadership-Intern----Philadelphia--PA--Starting-Summer-2027-_R0000446877",
+    "title": "Store Executive Intern (Store Leadership Intern) - Philadelphia, PA (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "25 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1-Mifflin-St-PhiladelphiaPA-19148-2017/Store-Executive-Intern--Store-Leadership-Intern----Philadelphia--PA--Starting-Summer-2027-_R0000446877",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1245-Bald-Hill-Rd-WarwickRI-02886-4233/Store-Executive-Intern--Store-Leadership-Intern----South-Shore---Rhode-Island--Starting-Summer-2027-_R0000446893",
+    "title": "Store Executive Intern (Store Leadership Intern) - South Shore & Rhode Island (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "12 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1245-Bald-Hill-Rd-WarwickRI-02886-4233/Store-Executive-Intern--Store-Leadership-Intern----South-Shore---Rhode-Island--Starting-Summer-2027-_R0000446893",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Store-Executive-Intern--Store-Leadership-Intern----Southeastern-Pennsylvania---Delaware--Starting-Summer-2027-_R0000446889",
+    "title": "Store Executive Intern (Store Leadership Intern) - Southeastern Pennsylvania & Delaware (Starting Summer 2027)",
+    "department": null,
+    "locations": [
+      "14 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Store-Executive-Intern--Store-Leadership-Intern----Southeastern-Pennsylvania---Delaware--Starting-Summer-2027-_R0000446889",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/4400-N-State-Rd-7-Coral-SpringsFL-33073-3353/Asset-Protection-Team-Leader_R0000450685",
+    "title": "Asset Protection Team Leader",
+    "department": null,
+    "locations": [
+      "4400 N State Rd 7, Coral Springs,FL 33073-3353"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4400-N-State-Rd-7-Coral-SpringsFL-33073-3353/Asset-Protection-Team-Leader_R0000450685",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/650-N-Congress-Ave-Boynton-Beach-FL-33426-3445/Assets-Protection-Team-Leader_R0000450684",
+    "title": "Assets Protection Team Leader",
+    "department": null,
+    "locations": [
+      "650 N Congress Ave, Boynton Beach, FL 33426-3445"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/650-N-Congress-Ave-Boynton-Beach-FL-33426-3445/Assets-Protection-Team-Leader_R0000450684",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/30340-Haun-Rd-Menifee-CA-92584-6806/Human-Resources-Process-Team-Leader_R0000450636",
+    "title": "Human Resources Process Team Leader",
+    "department": null,
+    "locations": [
+      "30340 Haun Rd, Menifee, CA 92584-6806"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/30340-Haun-Rd-Menifee-CA-92584-6806/Human-Resources-Process-Team-Leader_R0000450636",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/3110-N-Alder-Ave-RialtoCA-92377-4902/Sr-HR-Specialist-GSCL_R0000449923-1",
+    "title": "Sr HR Specialist GSCL",
+    "department": null,
+    "locations": [
+      "3110 N Alder Ave, Rialto,CA 92377-4902"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3110-N-Alder-Ave-RialtoCA-92377-4902/Sr-HR-Specialist-GSCL_R0000449923-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-FSQR-Scientist--Compliance---Labeling_R0000450658",
+    "title": "Sr. FSQR Scientist, Compliance & Labeling",
+    "department": null,
+    "locations": [
+      "1000 Nicollet Mall, Minneapolis,MN 55403-2542"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-FSQR-Scientist--Compliance---Labeling_R0000450658",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Target",
+    "platform": "workday",
+    "jobId": "/job/2120-W-Main-St-AlhambraCA-91801-1856/Inbound-Operations-Team-Leader_R0000450424",
+    "title": "Inbound Operations Team Leader",
+    "department": null,
+    "locations": [
+      "2120 W Main St, Alhambra,CA 91801-1856"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2120-W-Main-St-AlhambraCA-91801-1856/Inbound-Operations-Team-Leader_R0000450424",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:59.750Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/China-Shanghai/Manager--Solutions-Architecture---Data-Processing_JR2022811-1",
+    "title": "Manager, Solutions Architecture - Data Processing",
+    "department": null,
+    "locations": [
+      "2 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Manager--Solutions-Architecture---Data-Processing_JR2022811-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/India-Bengaluru/ASIC-Design-Engineer---RTL-and-Circuits_JR2023989",
+    "title": "ASIC Design Engineer - RTL and Circuits",
+    "department": null,
+    "locations": [
+      "India, Bengaluru"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer---RTL-and-Circuits_JR2023989",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2023915",
+    "title": "Senior Site Reliability Engineer",
+    "department": null,
+    "locations": [
+      "Israel, Yokneam"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2023915",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Israel-Yokneam/Senior-Site-Reliability-Engineering---Storage_JR2023556",
+    "title": "Senior Site Reliability Engineering - Storage",
+    "department": null,
+    "locations": [
+      "Israel, Yokneam"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineering---Storage_JR2023556",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software---Product-and-Services_JR2023320",
+    "title": "Senior Technical Program Manager, DGX Cloud Software - Product and Services",
+    "department": null,
+    "locations": [
+      "2 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--DGX-Cloud-Software---Product-and-Services_JR2023320",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/US-CA-Santa-Clara/NCX-Senior-Engineer_JR2024060",
+    "title": "NCX Senior Engineer",
+    "department": null,
+    "locations": [
+      "3 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NCX-Senior-Engineer_JR2024060",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/India-Pune/Software-QA-Test-and-Tools-Developer---Automotive-Platform_JR2023573",
+    "title": "Software QA Test and Tools Developer – Automotive Platform",
+    "department": null,
+    "locations": [
+      "India, Pune"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Software-QA-Test-and-Tools-Developer---Automotive-Platform_JR2023573",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/China-Shanghai/Senior-AI-Agent-Test-Development-Engineer--SDET_JR2023691",
+    "title": "Senior AI Agent Test Development Engineer, SDET",
+    "department": null,
+    "locations": [
+      "China, Shanghai"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-AI-Agent-Test-Development-Engineer--SDET_JR2023691",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1",
+    "title": "Software Engineering Intern, Test Development - 2027",
+    "department": null,
+    "locations": [
+      "China, Shanghai"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--Vision-AI_JR2023216",
+    "title": "Solutions Architect, Vision AI",
+    "department": null,
+    "locations": [
+      "Singapore, Singapore-Suntec Tower"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Singapore-Suntec-Tower/Solutions-Architect--Vision-AI_JR2023216",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Israel-Raanana/Lab-Manager_JR2010787",
+    "title": "Infrastructure Team Manager",
+    "department": null,
+    "locations": [
+      "Israel, Raanana"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Lab-Manager_JR2010787",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/US-CA-Santa-Clara/R-D-Lab-Operations-Manager_JR2021429",
+    "title": "R&D Lab Operations Manager",
+    "department": null,
+    "locations": [
+      "2 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/R-D-Lab-Operations-Manager_JR2021429",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/US-CA-Santa-Clara/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2014633",
+    "title": "Senior Platform and EngOps Engineer - Cluster Operations",
+    "department": null,
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-and-EngOps-Engineer---Cluster-Operations_JR2014633",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Fabric-Networking---GPU_JR2015216",
+    "title": "Senior Software Engineer, Fabric Networking - GPU",
+    "department": null,
+    "locations": [
+      "6 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Fabric-Networking---GPU_JR2015216",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR1985475",
+    "title": "Senior Chip Design Engineer",
+    "department": null,
+    "locations": [
+      "Israel, Tel Aviv"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR1985475",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2001549",
+    "title": "Chip Design Verification Engineer",
+    "department": null,
+    "locations": [
+      "Israel, Tel Aviv"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Verification-Engineer_JR2001549",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Israel-Tel-Aviv/Advanced-Development-Engineer--GPU-Networking_JR2014867",
+    "title": "Advanced Development Engineer, GPU Networking",
+    "department": null,
+    "locations": [
+      "3 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Advanced-Development-Engineer--GPU-Networking_JR2014867",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Nvidia",
+    "platform": "workday",
+    "jobId": "/job/Israel-Yokneam/PHY-System-Integration-Engineer_JR2024250",
+    "title": "PHY System Integration Engineer",
+    "department": null,
+    "locations": [
+      "2 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/PHY-System-Integration-Engineer_JR2024250",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:40:52.161Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Workday Inc",
+    "platform": "workday",
+    "jobId": "/job/Hong-Kong/Account-Executive---Customer-Base_JR-0109279",
+    "title": "Account Executive - Customer Base",
+    "department": null,
+    "locations": [
+      "Hong Kong"
+    ],
+    "isRemote": false,
+    "employmentType": null,
+    "applyUrl": "https://workday.wd5.myworkdayjobs.com/Workday/job/Hong-Kong/Account-Executive---Customer-Base_JR-0109279",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:41:08.472Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Workday Inc",
+    "platform": "workday",
+    "jobId": "/job/Singapore/Business-Development-Representative_JR-0109563",
+    "title": "Business Development Representative",
+    "department": null,
+    "locations": [
+      "Singapore"
+    ],
+    "isRemote": false,
+    "employmentType": null,
+    "applyUrl": "https://workday.wd5.myworkdayjobs.com/Workday/job/Singapore/Business-Development-Representative_JR-0109563",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:41:08.472Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
+  },
+  {
+    "company": "Workday Inc",
+    "platform": "workday",
+    "jobId": "/job/USA-CO-Boulder/Senior-Specialized-Customer-Success-Manager--CLM--Evisort-_JR-0109106-1",
+    "title": "Senior Specialized Customer Success Manager, CLM (Evisort)",
+    "department": null,
+    "locations": [
+      "6 Locations"
+    ],
+    "isRemote": null,
+    "employmentType": null,
+    "applyUrl": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Senior-Specialized-Customer-Success-Manager--CLM--Evisort-_JR-0109106-1",
+    "postedAt": null,
+    "scrapedAt": "2026-08-24T06:41:08.472Z",
+    "firstSeenAt": "2026-08-24T06:41:08.653Z"
   }
 ]
